@@ -1,0 +1,18 @@
+#                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name            accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#    ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TCONS_00002212:208-684   -            159 138401at6656         -            105   1.2e-41  140.0   7.1   1   1   7.8e-45   1.5e-41  139.7   7.1     1   105    22   128    22   128 0.96 -
+TCONS_00000398:111-591   -            127 138401at6656         -            105   0.00052   19.1   2.9   1   1   6.3e-07    0.0012   17.9   2.8     6    99    16   104    11   117 0.83 -
+TCONS_00038529:1134-1514 -            127 138401at6656         -            105   0.00052   19.1   2.9   1   1   6.3e-07    0.0012   17.9   2.8     6    99    16   104    11   117 0.83 -
+TCONS_00000388:162-642   -            144 138401at6656         -            105   0.00094   18.3   3.2   1   1   7.6e-07    0.0015   17.6   2.5     6    98    33   120    26   130 0.82 -
+TCONS_00000402:126-2223  -            523 138401at6656         -            105    0.0083   15.2   2.6   1   1   1.1e-05     0.021   13.9   2.2     6    98    16   103    11   112 0.83 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/busco_downloads/lineages/arthropoda_odb10/hmms/138401at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/all_transcripts.comprehensive.v6.gffread.fa.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/138401at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/busco_downloads/lineages/arthropoda_odb10/hmms/138401at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/all_transcripts.comprehensive.v6.gffread.fa.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco
+# Date:            Thu Feb  9 16:51:24 2023
+# [ok]

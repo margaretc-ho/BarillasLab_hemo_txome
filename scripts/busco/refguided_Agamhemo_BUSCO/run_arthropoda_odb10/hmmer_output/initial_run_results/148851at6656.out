@@ -1,0 +1,15 @@
+#                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TCONS_00014533:176-595 -            140 148851at6656         -            108   3.7e-55  184.1   8.7   1   1   1.2e-58   5.8e-55  183.5   8.5     1   103     5   116     5   121 0.96 -
+TCONS_00003779:151-528 -            126 148851at6656         -            108   2.4e-09   36.8   0.0   1   1   6.7e-13   3.2e-09   36.3   0.0     5   103     1   112     1   117 0.79 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/busco_downloads/lineages/arthropoda_odb10/hmms/148851at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/all_transcripts.comprehensive.v6.gffread.fa.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/148851at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/busco_downloads/lineages/arthropoda_odb10/hmms/148851at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/all_transcripts.comprehensive.v6.gffread.fa.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco
+# Date:            Thu Feb  9 16:51:41 2023
+# [ok]

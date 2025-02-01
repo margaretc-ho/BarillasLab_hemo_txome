@@ -1,0 +1,4 @@
+de_novo.seqSigP-61566.1	MetaEuk	gene	1	996	689	+	.	Target_ID=124452at6656_43041_0:00190b;TCS_ID=124452at6656_43041_0:00190b|de_novo.seqSigP-61566.1|+|0
+de_novo.seqSigP-61566.1	MetaEuk	mRNA	1	996	689	+	.	Target_ID=124452at6656_43041_0:00190b;TCS_ID=124452at6656_43041_0:00190b|de_novo.seqSigP-61566.1|+|0_mRNA;Parent=124452at6656_43041_0:00190b|de_novo.seqSigP-61566.1|+|0
+de_novo.seqSigP-61566.1	MetaEuk	exon	1	996	689	+	.	Target_ID=124452at6656_43041_0:00190b;TCS_ID=124452at6656_43041_0:00190b|de_novo.seqSigP-61566.1|+|0_exon_0;Parent=124452at6656_43041_0:00190b|de_novo.seqSigP-61566.1|+|0_mRNA
+de_novo.seqSigP-61566.1	MetaEuk	CDS	1	996	689	+	.	Target_ID=124452at6656_43041_0:00190b;TCS_ID=124452at6656_43041_0:00190b|de_novo.seqSigP-61566.1|+|0_CDS_0;Parent=124452at6656_43041_0:00190b|de_novo.seqSigP-61566.1|+|0_exon_0

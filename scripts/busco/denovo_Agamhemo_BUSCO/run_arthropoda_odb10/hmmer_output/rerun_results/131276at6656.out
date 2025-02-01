@@ -1,0 +1,32 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                             accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                     ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+de_novo.Agm54242U_210909_035710_119801001_ccs.1:0-1817    -            606 131276at6656         -            173   1.5e-47  158.3  21.2   1   4   3.3e-12   4.8e-10   36.1   0.2     1    33    12    44    12    52 0.93 -
+de_novo.Agm54242U_210909_035710_119801001_ccs.1:0-1817    -            606 131276at6656         -            173   1.5e-47  158.3  21.2   2   4       0.8   1.2e+02   -0.9   0.3   144   169   180   205   130   251 0.71 -
+de_novo.Agm54242U_210909_035710_119801001_ccs.1:0-1817    -            606 131276at6656         -            173   1.5e-47  158.3  21.2   3   4       5.6   8.3e+02   -3.7   0.2    79   104   368   393   365   396 0.75 -
+de_novo.Agm54242U_210909_035710_119801001_ccs.1:0-1817    -            606 131276at6656         -            173   1.5e-47  158.3  21.2   4   4   1.5e-39   2.2e-37  125.2   4.3    27   123   482   600   479   605 0.80 -
+de_novo.Agm54242U_210819_213017_135135661_ccs.1:1212-1451 -             80 131276at6656         -            173     2e-21   73.2   4.5   1   2   3.9e-13   5.8e-11   39.2   0.2    30    63    12    45     3    47 0.90 -
+de_novo.Agm54242U_210819_213017_135135661_ccs.1:1212-1451 -             80 131276at6656         -            173     2e-21   73.2   4.5   2   2   1.5e-12   2.2e-10   37.3   0.6    32    63    46    77    43    80 0.93 -
+de_novo.AGAP003133-RA.1:1674-1988                         -            105 131276at6656         -            173   1.5e-18   63.8   0.3   1   2   1.6e-10   2.4e-08   30.6   0.0    34    63     1    30     1    41 0.91 -
+de_novo.AGAP003133-RA.1:1674-1988                         -            105 131276at6656         -            173   1.5e-18   63.8   0.3   2   2   7.6e-11   1.1e-08   31.7   0.1    32    63    74   105    65   105 0.89 -
+de_novo.Agm54242U_210819_213017_71303239_ccs.1:1638-1952  -            105 131276at6656         -            173   1.5e-18   63.8   0.3   1   2   1.6e-10   2.4e-08   30.6   0.0    34    63     1    30     1    41 0.91 -
+de_novo.Agm54242U_210819_213017_71303239_ccs.1:1638-1952  -            105 131276at6656         -            173   1.5e-18   63.8   0.3   2   2   7.6e-11   1.1e-08   31.7   0.1    32    63    74   105    65   105 0.89 -
+de_novo.Agm54242U_210909_035710_42532869_ccs.1:267-581    -            105 131276at6656         -            173   1.5e-18   63.8   0.3   1   2   1.6e-10   2.4e-08   30.6   0.0    34    63     1    30     1    41 0.91 -
+de_novo.Agm54242U_210909_035710_42532869_ccs.1:267-581    -            105 131276at6656         -            173   1.5e-18   63.8   0.3   2   2   7.6e-11   1.1e-08   31.7   0.1    32    63    74   105    65   105 0.89 -
+de_novo.Agm54242U_210909_035710_96536173_ccs.1:1086-1400  -            105 131276at6656         -            173   1.5e-18   63.8   0.3   1   2   1.6e-10   2.4e-08   30.6   0.0    34    63     1    30     1    41 0.91 -
+de_novo.Agm54242U_210909_035710_96536173_ccs.1:1086-1400  -            105 131276at6656         -            173   1.5e-18   63.8   0.3   2   2   7.6e-11   1.1e-08   31.7   0.1    32    63    74   105    65   105 0.89 -
+de_novo.Agm54242U_210909_035710_32047150_ccs.1:1110-1391  -             94 131276at6656         -            173   1.8e-18   63.6   0.2   1   2   1.2e-10   1.8e-08   31.0   0.0    32    70     4    42     1    53 0.87 -
+de_novo.Agm54242U_210909_035710_32047150_ccs.1:1110-1391  -             94 131276at6656         -            173   1.8e-18   63.6   0.2   2   2     1e-10   1.5e-08   31.3   0.1    31    63    62    94    52    94 0.90 -
+de_novo.Agm54242U_210909_035710_94242512_ccs.1:447-719    -             91 131276at6656         -            173   3.1e-17   59.6   2.1   1   1   5.7e-19   8.4e-17   58.2   2.1    33    99    11    89     4    91 0.84 -
+de_novo.Agm54242U_210819_213017_162465360_ccs.1:12-254    -             81 131276at6656         -            173   1.1e-11   41.5   0.4   1   1   9.2e-14   1.4e-11   41.2   0.4    28    98     4    81     2    81 0.85 -
+de_novo.Agseq_138833.1:12-254                             -             81 131276at6656         -            173   1.1e-11   41.5   0.4   1   1   9.2e-14   1.4e-11   41.2   0.4    28    98     4    81     2    81 0.85 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/131276at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/rerun_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/rerun_results/131276at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/131276at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/rerun_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco
+# Date:            Sun Jan 29 13:19:16 2023
+# [ok]

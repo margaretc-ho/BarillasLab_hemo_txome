@@ -1,0 +1,25 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AgamP4_3R:52067737-52113981   -           2033 37387at6656          -           1254         0 1333.5 353.7   1   6   1.7e-78   1.3e-75  252.5  15.9     1   125   211   335   211   347 0.98 -
+AgamP4_3R:52067737-52113981   -           2033 37387at6656          -           1254         0 1333.5 353.7   2   6  5.4e-206  4.2e-203  674.8  74.5   133   502   674  1055   665  1057 0.97 -
+AgamP4_3R:52067737-52113981   -           2033 37387at6656          -           1254         0 1333.5 353.7   3   6   1.1e-85   8.5e-83  276.3  97.4   553   945  1055  1491  1054  1498 0.81 -
+AgamP4_3R:52067737-52113981   -           2033 37387at6656          -           1254         0 1333.5 353.7   4   6     2e-23   1.6e-20   70.0  51.0   903  1144  1520  1750  1503  1754 0.80 -
+AgamP4_3R:52067737-52113981   -           2033 37387at6656          -           1254         0 1333.5 353.7   5   6   1.8e-07   0.00014   17.2  38.8  1069  1164  1742  1840  1736  1846 0.74 -
+AgamP4_3R:52067737-52113981   -           2033 37387at6656          -           1254         0 1333.5 353.7   6   6   5.4e-21   4.1e-18   62.0  56.4  1081  1254  1830  2013  1828  2013 0.69 -
+AgamP4_UNKN:19198919-19199821 -            226 37387at6656          -           1254   6.7e-54  180.5  10.5   1   2      0.21   1.6e+02   -2.9   0.1   528   542   107   121    94   128 0.42 -
+AgamP4_UNKN:19198919-19199821 -            226 37387at6656          -           1254   6.7e-54  180.5  10.5   2   2   8.8e-57   6.7e-54  180.5  10.5     1    93   131   223   131   226 0.98 -
+AgamP4_UNKN:21818698-21819600 -            226 37387at6656          -           1254   6.7e-54  180.5  10.5   1   2      0.21   1.6e+02   -2.9   0.1   528   542   107   121    94   128 0.42 -
+AgamP4_UNKN:21818698-21819600 -            226 37387at6656          -           1254   6.7e-54  180.5  10.5   2   2   8.8e-57   6.7e-54  180.5  10.5     1    93   131   223   131   226 0.98 -
+AgamP4_2L:45983327-45986048   -            710 37387at6656          -           1254   2.6e-05   19.6  49.9   1   2    0.0018       1.4    3.9   5.0   553   607     2    56     1    76 0.86 -
+AgamP4_2L:45983327-45986048   -            710 37387at6656          -           1254   2.6e-05   19.6  49.9   2   2   3.4e-08   2.6e-05   19.6  49.9   861  1146   146   445   136   479 0.67 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/37387at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/VB59_AgambiaePEST_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/VectorBase-59_AgambiaePEST_Genome.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/VB59_AgambiaePEST_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/37387at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/37387at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/VB59_AgambiaePEST_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/VectorBase-59_AgambiaePEST_Genome.fasta.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco
+# Date:            Fri Jan 27 16:40:51 2023
+# [ok]

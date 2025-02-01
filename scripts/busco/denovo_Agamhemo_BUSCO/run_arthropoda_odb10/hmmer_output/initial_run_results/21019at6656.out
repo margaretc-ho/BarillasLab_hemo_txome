@@ -1,0 +1,40 @@
+#                                                                                                                 --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                             accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                     ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+de_novo.Agm54242U_210819_213017_3344141_ccs.1:0-3911      -           1304 21019at6656          -            969         0 1302.4  54.4   1   2         0         0 1057.7  40.8     9   757    58   901    35   906 0.91 -
+de_novo.Agm54242U_210819_213017_3344141_ccs.1:0-3911      -           1304 21019at6656          -            969         0 1302.4  54.4   2   2   2.1e-77     8e-75  250.5   5.7   757   960   968  1190   965  1213 0.89 -
+de_novo.Agseq_77589.1:0-3911                              -           1304 21019at6656          -            969         0 1302.4  54.4   1   2         0         0 1057.7  40.8     9   757    58   901    35   906 0.91 -
+de_novo.Agseq_77589.1:0-3911                              -           1304 21019at6656          -            969         0 1302.4  54.4   2   2   2.1e-77     8e-75  250.5   5.7   757   960   968  1190   965  1213 0.89 -
+de_novo.Agm54242U_210819_213017_170919696_ccs.1:0-3764    -           1255 21019at6656          -            969         0 1201.9  60.6   1   3  5.3e-171    2e-168  560.3  22.0     9   439    58   564    35   565 0.88 -
+de_novo.Agm54242U_210819_213017_170919696_ccs.1:0-3764    -           1255 21019at6656          -            969         0 1201.9  60.6   2   3  1.4e-124  5.2e-122  406.6  17.1   479   757   560   852   556   857 0.95 -
+de_novo.Agm54242U_210819_213017_170919696_ccs.1:0-3764    -           1255 21019at6656          -            969         0 1201.9  60.6   3   3     2e-77   7.5e-75  250.5   5.7   757   960   919  1141   916  1164 0.89 -
+de_novo.Agm54242U_210909_035710_142082223_ccs.1:27-3635   -           1203 21019at6656          -            969         0 1150.1  53.6   1   2  3.7e-275  1.4e-272  905.0  40.0   115   757    82   800    77   805 0.92 -
+de_novo.Agm54242U_210909_035710_142082223_ccs.1:27-3635   -           1203 21019at6656          -            969         0 1150.1  53.6   2   2   1.9e-77     7e-75  250.6   5.7   757   960   867  1089   864  1112 0.89 -
+de_novo.Agm54242U_210819_213017_148113639_ccs.1:27-3104   -           1026 21019at6656          -            969    2e-298  990.6  41.0   1   3  7.8e-132  2.9e-129  430.6   8.9     9   309    58   394    35   397 0.89 -
+de_novo.Agm54242U_210819_213017_148113639_ccs.1:27-3104   -           1026 21019at6656          -            969    2e-298  990.6  41.0   2   3   6.4e-99   2.4e-96  321.7  11.0   539   757   396   623   393   628 0.95 -
+de_novo.Agm54242U_210819_213017_148113639_ccs.1:27-3104   -           1026 21019at6656          -            969    2e-298  990.6  41.0   3   3   1.4e-77   5.4e-75  251.0   5.7   757   960   690   912   687   935 0.89 -
+de_novo.Agm54242U_210909_035710_5439696_ccs.1:0-2354      -            785 21019at6656          -            969  4.9e-268  890.0  35.3   1   1  1.8e-270  6.8e-268  889.5  35.3     9   646    58   785    35   785 0.90 -
+de_novo.Agm54242U_210819_213017_37618789_ccs.1:0-1964     -            655 21019at6656          -            969  1.3e-191  637.1  28.7   1   2  2.2e-120  8.2e-118  392.7  13.3   496   757     1   271     1   276 0.96 -
+de_novo.Agm54242U_210819_213017_37618789_ccs.1:0-1964     -            655 21019at6656          -            969  1.3e-191  637.1  28.7   2   2   2.2e-77   8.2e-75  250.4   7.4   757   960   338   560   335   569 0.90 -
+de_novo.Agm54242Ue_220404_200923_82249608_ccs.1:135-2075  -            647 21019at6656          -            969  5.4e-174  578.7  21.5   1   2  4.3e-102   1.6e-99  332.2   7.8   535   757    13   244     3   249 0.94 -
+de_novo.Agm54242Ue_220404_200923_82249608_ccs.1:135-2075  -            647 21019at6656          -            969  5.4e-174  578.7  21.5   2   2   6.1e-78   2.3e-75  252.3   5.7   757   960   311   533   308   556 0.89 -
+de_novo.Agm54242U_210909_035710_4129972_ccs.1:0-1430      -            477 21019at6656          -            969  6.5e-148  492.4   8.2   1   1    3e-150  1.1e-147  491.6   8.2     9   365    58   472    35   476 0.87 -
+de_novo.Agm54242U_210909_035710_29032717_ccs.1:0-1190     -            397 21019at6656          -            969  1.9e-130  434.6   9.1   1   1  6.8e-133  2.5e-130  434.1   9.1     9   309    58   394    35   397 0.89 -
+de_novo.Agm54242U_210909_035710_119343613_ccs.1:342-1721  -            460 21019at6656          -            969   4.7e-94  314.1  15.0   1   2     4e-22   1.5e-19   67.5   0.3   701   757     1    57     1    62 0.98 -
+de_novo.Agm54242U_210909_035710_119343613_ccs.1:342-1721  -            460 21019at6656          -            969   4.7e-94  314.1  15.0   2   2   3.2e-77   1.2e-74  249.9   9.2   757   960   124   346   121   369 0.89 -
+de_novo.Agm54242U_210819_213017_108789928_ccs.1:1379-2389 -            337 21019at6656          -            969   5.9e-75  250.9   9.3   1   1   2.4e-77   8.9e-75  250.3   9.3   758   960     2   223     1   246 0.89 -
+de_novo.Agseq_127958.1:2-616                              -            205 21019at6656          -            969   2.7e-26   89.8   1.1   1   1   1.3e-28   4.8e-26   89.0   1.1   874   960     1    95     1   118 0.86 -
+de_novo.Agseq_169644.1:333-1076                           -            248 21019at6656          -            969   7.8e-19   65.1   1.2   1   3   5.2e-11     2e-08   30.7   0.2   553   621     2    69     1    93 0.86 -
+de_novo.Agseq_169644.1:333-1076                           -            248 21019at6656          -            969   7.8e-19   65.1   1.2   2   3      0.11        42   -0.2   0.0   114   136    73    95    69   100 0.64 -
+de_novo.Agseq_169644.1:333-1076                           -            248 21019at6656          -            969   7.8e-19   65.1   1.2   3   3   1.9e-11   7.3e-09   32.1   0.1   528   624   123   224   117   247 0.75 -
+de_novo.Agm54242Ue_220404_200923_162202243_ccs.1:437-880  -            148 21019at6656          -            969   7.3e-18   61.9   0.1   1   1   5.1e-20   1.9e-17   60.5   0.1   894   960     2    68     1    91 0.89 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/21019at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/21019at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/21019at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco
+# Date:            Sun Jan 29 12:58:13 2023
+# [ok]

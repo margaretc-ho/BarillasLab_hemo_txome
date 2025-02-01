@@ -1,0 +1,4 @@
+de_novo.Agseq_58526.1	MetaEuk	gene	16	1737	1199	+	.	Target_ID=57605at6656_7165_0:000e78;TCS_ID=57605at6656_7165_0:000e78|de_novo.Agseq_58526.1|+|15
+de_novo.Agseq_58526.1	MetaEuk	mRNA	16	1737	1199	+	.	Target_ID=57605at6656_7165_0:000e78;TCS_ID=57605at6656_7165_0:000e78|de_novo.Agseq_58526.1|+|15_mRNA;Parent=57605at6656_7165_0:000e78|de_novo.Agseq_58526.1|+|15
+de_novo.Agseq_58526.1	MetaEuk	exon	16	1737	1199	+	.	Target_ID=57605at6656_7165_0:000e78;TCS_ID=57605at6656_7165_0:000e78|de_novo.Agseq_58526.1|+|15_exon_0;Parent=57605at6656_7165_0:000e78|de_novo.Agseq_58526.1|+|15_mRNA
+de_novo.Agseq_58526.1	MetaEuk	CDS	16	1737	1199	+	.	Target_ID=57605at6656_7165_0:000e78;TCS_ID=57605at6656_7165_0:000e78|de_novo.Agseq_58526.1|+|15_CDS_0;Parent=57605at6656_7165_0:000e78|de_novo.Agseq_58526.1|+|15_exon_0

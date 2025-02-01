@@ -1,0 +1,4 @@
+de_novo.Agseq_185149.1	MetaEuk	gene	3	995	284	-	.	Target_ID=32694at6656;TCS_ID=32694at6656|de_novo.Agseq_185149.1|-|2
+de_novo.Agseq_185149.1	MetaEuk	mRNA	3	995	284	-	.	Target_ID=32694at6656;TCS_ID=32694at6656|de_novo.Agseq_185149.1|-|2_mRNA;Parent=32694at6656|de_novo.Agseq_185149.1|-|2
+de_novo.Agseq_185149.1	MetaEuk	exon	3	995	284	-	.	Target_ID=32694at6656;TCS_ID=32694at6656|de_novo.Agseq_185149.1|-|2_exon_0;Parent=32694at6656|de_novo.Agseq_185149.1|-|2_mRNA
+de_novo.Agseq_185149.1	MetaEuk	CDS	3	995	284	-	.	Target_ID=32694at6656;TCS_ID=32694at6656|de_novo.Agseq_185149.1|-|2_CDS_0;Parent=32694at6656|de_novo.Agseq_185149.1|-|2_exon_0

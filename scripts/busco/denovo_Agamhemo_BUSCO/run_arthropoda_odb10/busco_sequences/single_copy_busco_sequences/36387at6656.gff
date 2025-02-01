@@ -1,0 +1,4 @@
+de_novo.Agseq_78647.1	MetaEuk	gene	1	1920	1273	+	.	Target_ID=36387at6656_7165_0:001ddc;TCS_ID=36387at6656_7165_0:001ddc|de_novo.Agseq_78647.1|+|0
+de_novo.Agseq_78647.1	MetaEuk	mRNA	1	1920	1273	+	.	Target_ID=36387at6656_7165_0:001ddc;TCS_ID=36387at6656_7165_0:001ddc|de_novo.Agseq_78647.1|+|0_mRNA;Parent=36387at6656_7165_0:001ddc|de_novo.Agseq_78647.1|+|0
+de_novo.Agseq_78647.1	MetaEuk	exon	1	1920	1273	+	.	Target_ID=36387at6656_7165_0:001ddc;TCS_ID=36387at6656_7165_0:001ddc|de_novo.Agseq_78647.1|+|0_exon_0;Parent=36387at6656_7165_0:001ddc|de_novo.Agseq_78647.1|+|0_mRNA
+de_novo.Agseq_78647.1	MetaEuk	CDS	1	1920	1273	+	.	Target_ID=36387at6656_7165_0:001ddc;TCS_ID=36387at6656_7165_0:001ddc|de_novo.Agseq_78647.1|+|0_CDS_0;Parent=36387at6656_7165_0:001ddc|de_novo.Agseq_78647.1|+|0_exon_0

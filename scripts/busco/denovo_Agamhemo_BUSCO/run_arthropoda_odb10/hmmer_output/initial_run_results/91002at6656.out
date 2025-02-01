@@ -1,0 +1,23 @@
+#                                                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+de_novo.Agm54242U_210819_213017_166332587_ccs.1:1-831   -            277 91002at6656          -            259  5.3e-146  483.4   4.4   1   1  1.2e-148  7.4e-146  482.9   4.4     2   257     1   275     1   277 0.92 -
+de_novo.Agm54242Ue_220404_200923_107937885_ccs.1:1-849  -            283 91002at6656          -            259  5.5e-146  483.4   4.4   1   1  1.3e-148  7.9e-146  482.9   4.4     2   257     1   275     1   277 0.92 -
+de_novo.Agm54242U_210819_213017_174262154_ccs.1:1-870   -            290 91002at6656          -            259    6e-146  483.2   4.4   1   1  1.4e-148  8.7e-146  482.7   4.4     2   257     1   275     1   277 0.92 -
+de_novo.Agm54242U_210819_213017_152568453_ccs.1:1-888   -            296 91002at6656          -            259    3e-145  481.0   6.6   1   1    7e-148  4.4e-145  480.4   6.6     2   257     1   275     1   277 0.92 -
+de_novo.Agm54242U_210909_035710_41028427_ccs.1:1-888    -            296 91002at6656          -            259    3e-145  481.0   6.6   1   1    7e-148  4.4e-145  480.4   6.6     2   257     1   275     1   277 0.92 -
+de_novo.Agm54242U_210909_035710_58722054_ccs.1:1-705    -            235 91002at6656          -            259  2.6e-136  451.6   3.4   1   1  4.7e-139  2.9e-136  451.5   3.4     2   228     1   235     1   235 0.97 -
+de_novo.Agm54242Ue_220404_200923_140640795_ccs.1:68-916 -            283 91002at6656          -            259  4.6e-136  450.9   3.5   1   1  1.1e-138  6.8e-136  450.3   3.5    15   257     1   262     1   264 0.92 -
+de_novo.Agm54242U_210819_213017_122094842_ccs.1:1-759   -            253 91002at6656          -            259  4.7e-120  398.4  15.8   1   2   1.9e-63   1.2e-60  203.7   8.2     2    99     1    98     1    98 0.99 -
+de_novo.Agm54242U_210819_213017_122094842_ccs.1:1-759   -            253 91002at6656          -            259  4.7e-120  398.4  15.8   2   2   3.5e-63   2.2e-60  202.8   0.8   135   257    96   232    95   234 0.87 -
+de_novo.Agm54242Ue_220404_200923_92932358_ccs.1:0-377   -            126 91002at6656          -            259   3.2e-36  123.6   4.2   1   1   9.9e-39   6.2e-36  122.7   4.2   167   258     1   106     1   107 0.84 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/91002at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/91002at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/91002at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco
+# Date:            Sun Jan 29 13:00:50 2023
+# [ok]

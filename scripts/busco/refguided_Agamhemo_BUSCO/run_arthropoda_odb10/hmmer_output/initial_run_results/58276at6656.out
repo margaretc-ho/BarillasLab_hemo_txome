@@ -1,0 +1,35 @@
+#                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name            accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#    ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TCONS_00046387:196-1646  -            426 58276at6656          -            337  7.4e-175  579.8   0.0   1   1  1.6e-177  8.7e-175  579.6   0.0     1   337    39   420    39   420 0.93 -
+TCONS_00040986:196-1485  -            430 58276at6656          -            337  7.7e-175  579.7   0.0   1   1  1.7e-177    9e-175  579.5   0.0     1   337    43   424    43   424 0.93 -
+TCONS_00045246:390-1817  -            430 58276at6656          -            337  7.7e-175  579.7   0.0   1   1  1.7e-177    9e-175  579.5   0.0     1   337    43   424    43   424 0.93 -
+TCONS_00016047:188-1324  -            379 58276at6656          -            337   6.3e-44  149.3   0.0   1   1   1.6e-46   8.3e-44  149.0   0.0    14   335     5   372     2   374 0.83 -
+TCONS_00002491:404-1561  -            386 58276at6656          -            337   1.9e-39  134.6   0.0   1   1   4.6e-42   2.5e-39  134.3   0.0    11   331    15   384     9   386 0.79 -
+TCONS_00002490:874-1977  -            368 58276at6656          -            337     2e-38  131.3   0.0   1   1   4.2e-41   2.3e-38  131.1   0.0    41   331    36   366     1   368 0.78 -
+TCONS_00010545:836-1834  -            333 58276at6656          -            337   5.7e-38  129.8   0.0   1   1   1.2e-40   6.6e-38  129.5   0.0    42   331     2   331     1   333 0.81 -
+TCONS_00041522:229-1323  -            365 58276at6656          -            337   9.7e-38  129.0   0.1   1   1   2.1e-40   1.1e-37  128.8   0.1    12   327     3   363     1   365 0.82 -
+TCONS_00003448:257-1369  -            371 58276at6656          -            337   6.4e-37  126.3   0.0   1   1   1.5e-39   8.1e-37  126.0   0.0    87   332    92   371     2   371 0.82 -
+TCONS_00041094:508-1569  -            354 58276at6656          -            337   1.1e-31  109.1   0.2   1   1     4e-34   2.1e-31  108.2   0.2    86   332    63   348    54   352 0.80 -
+TCONS_00049280:589-1461  -            291 58276at6656          -            337   1.4e-31  108.8   0.0   1   1   4.9e-34   2.6e-31  107.9   0.0    92   330     1   278     1   284 0.81 -
+TCONS_00041093:492-1568  -            359 58276at6656          -            337   1.5e-31  108.6   0.0   1   1   5.3e-34   2.8e-31  107.8   0.0    86   331    68   352    14   357 0.78 -
+TCONS_00042260:225-1301  -            359 58276at6656          -            337   1.5e-31  108.6   0.0   1   1   5.3e-34   2.8e-31  107.8   0.0    86   331    68   352    14   357 0.78 -
+TCONS_00042767:278-1408  -            377 58276at6656          -            337   1.4e-25   89.0   0.2   1   1   3.4e-28   1.8e-25   88.7   0.2    13   334     5   375     1   377 0.82 -
+TCONS_00040802:629-1381  -            251 58276at6656          -            337     0.012   13.6   0.0   1   2   5.7e-05     0.031   12.3   0.0    86   128   107   153    95   176 0.78 -
+TCONS_00040802:629-1381  -            251 58276at6656          -            337     0.012   13.6   0.0   2   2       1.1   6.1e+02   -1.8   0.0   165   193   223   251   219   251 0.83 -
+TCONS_00039516:1059-1733 -            225 58276at6656          -            337     0.019   13.0   0.1   1   2   0.00075       0.4    8.6   0.0   104   129    38    66    27   103 0.77 -
+TCONS_00039516:1059-1733 -            225 58276at6656          -            337     0.019   13.0   0.1   2   2     0.071        38    2.1   0.0   168   219   138   194   131   225 0.64 -
+TCONS_00042513:717-1391  -            225 58276at6656          -            337     0.019   13.0   0.1   1   2   0.00075       0.4    8.6   0.0   104   129    38    66    27   103 0.77 -
+TCONS_00042513:717-1391  -            225 58276at6656          -            337     0.019   13.0   0.1   2   2     0.071        38    2.1   0.0   168   219   138   194   131   225 0.64 -
+TCONS_00048154:575-1249  -            225 58276at6656          -            337     0.019   13.0   0.1   1   2   0.00075       0.4    8.6   0.0   104   129    38    66    27   103 0.77 -
+TCONS_00048154:575-1249  -            225 58276at6656          -            337     0.019   13.0   0.1   2   2     0.071        38    2.1   0.0   168   219   138   194   131   225 0.64 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/busco_downloads/lineages/arthropoda_odb10/hmms/58276at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/all_transcripts.comprehensive.v6.gffread.fa.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/58276at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/busco_downloads/lineages/arthropoda_odb10/hmms/58276at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/all_transcripts.comprehensive.v6.gffread.fa.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco
+# Date:            Thu Feb  9 16:54:13 2023
+# [ok]

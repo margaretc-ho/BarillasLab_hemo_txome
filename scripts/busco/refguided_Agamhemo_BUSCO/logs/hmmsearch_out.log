@@ -1,0 +1,124 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/busco_downloads/lineages/arthropoda_odb10/hmms/85574at6656.hmm
+# target sequence database:        /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/rerun_results/all_transcripts.comprehensive.v6.gffread.fa.modified.fas
+# per-dom hits tabular output:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/rerun_results/85574at6656.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       85574at6656  [M=292]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                -----------
+    2.4e-63  208.7   0.3    5.5e-49  161.6   0.1    2.1  2  TCONS_00001951:137-1234  
+    1.4e-23   78.2   0.1    3.3e-23   76.9   0.1    1.5  1  TCONS_00015491:254-847   
+    1.4e-23   78.2   0.1    3.3e-23   76.9   0.1    1.5  1  TCONS_00019494:291-884   
+    3.7e-23   76.8   0.1    8.5e-23   75.6   0.1    1.5  1  TCONS_00023792:305-832   
+
+
+Domain annotation for each sequence (and alignments):
+>> TCONS_00001951:137-1234  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  161.6   0.1   4.7e-51   5.5e-49       1     130 [.     151     294 ..     151     300 .. 0.89
+   2 !   45.2   0.0   1.3e-15   1.5e-13     130     172 ..     316     359 ..     314     363 .. 0.95
+
+  Alignments for each domain:
+  == domain 1  score: 161.6 bits;  conditional E-value: 4.7e-51
+              85574at6656   1 nvvlGGtfdrlhngHKillseavlrakekltvGvtdeemlk..slweLiepvekRie.vkefledvdpsleyevvpisdpfGptke 83 
+                              nvvlGGtfdr+h+gHK+ll++avl a+e+++vGvtd  m+k  +l+eLi p  +Rie vkefledvdp l+yevvpi dpfGpt++
+  TCONS_00001951:137-1234 151 NVVLGGTFDRIHAGHKVLLTQAVLLATERVVVGVTDGGMIKskKLHELILPAAHRIEhVKEFLEDVDPFLRYEVVPILDPFGPTAT 236
+                              69*************************************96337************66**************************** PP
+
+              85574at6656  84 dpklelivv...tkkggekvnelrkekel.eldil.vel......ledeeeKiSSsnk 130
+                              dp+++livv   t++gg+kvnelr++++l +l+++ +el      +ed+e+KiSSsn+
+  TCONS_00001951:137-1234 237 DPDMDLIVVsteTARGGAKVNELRAQNGLnQLEVHtIELlddestVEDKEDKISSSNQ 294
+                              ********9766789*************9569998577722222246789******97 PP
+
+  == domain 2  score: 45.2 bits;  conditional E-value: 1.3e-15
+              85574at6656 130 kpyiigltGgiasGkssiaekleklga.vincdklahelykkgk 172
+                              kpyiig++Ggia+Gks++ e++++lga v++cdk++h+ly++g+
+  TCONS_00001951:137-1234 316 KPYIIGMIGGIAAGKSKMLERFRELGAgVVDCDKIGHQLYEPGE 359
+                              7*************************9789***********996 PP
+
+>> TCONS_00015491:254-847  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   76.9   0.1   2.8e-25   3.3e-23     132     288 ..       1     188 [.       1     191 [. 0.81
+
+  Alignments for each domain:
+  == domain 1  score: 76.9 bits;  conditional E-value: 2.8e-25
+             85574at6656 132 yiigltGgiasGkssiaekleklga.vincdklahelykkg.....kiveefGkeil......idrkkLgaivfkdkekleklneiv 206
+                             +++ ltGgiasGks++++ +++ g+ vi++d +a+++ ++g     ki  +fG+e+       ++r++Lg+i+f+d ek++ lnei 
+  TCONS_00015491:254-847   1 FLVALTGGIASGKSTVTKIFRDNGVpVIDADAIARQVVEPGrpawhKIKAAFGEEVFhaesgeLNREALGRIIFDDVEKRRVLNEIT 87 
+                             5799********************8789***********98555546999*****976666669*********************** PP
+
+             85574at6656 207 wpeivkk...eiv.........vvleaavLlea....kwchevWvviipeeeaikrlkernnlseeeakkriesqps...neekanv 274
+                              pei ++   e++         vvl+  +L+e     +++h++ +v+ +e+  ++rl++r++ +e eakkri++q++   + e++++
+  TCONS_00015491:254-847  88 HPEIHRTiyrEVIkcffmghnfVVLDLPLLFEIrvmlNYIHKIITVTCEEDIQVTRLMDRSQYTEAEAKKRIKAQMPlelKCEQSHF 174
+                             **99764222443444444444999999998752222789***********************************973335678888 PP
+
+             85574at6656 275 vfstlwseevtqkq 288
+                             v+ +  +   t++q
+  TCONS_00015491:254-847 175 VIENSGTLRDTEEQ 188
+                             88776666555555 PP
+
+>> TCONS_00019494:291-884  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   76.9   0.1   2.8e-25   3.3e-23     132     288 ..       1     188 [.       1     191 [. 0.81
+
+  Alignments for each domain:
+  == domain 1  score: 76.9 bits;  conditional E-value: 2.8e-25
+             85574at6656 132 yiigltGgiasGkssiaekleklga.vincdklahelykkg.....kiveefGkeil......idrkkLgaivfkdkekleklneiv 206
+                             +++ ltGgiasGks++++ +++ g+ vi++d +a+++ ++g     ki  +fG+e+       ++r++Lg+i+f+d ek++ lnei 
+  TCONS_00019494:291-884   1 FLVALTGGIASGKSTVTKIFRDNGVpVIDADAIARQVVEPGrpawhKIKAAFGEEVFhaesgeLNREALGRIIFDDVEKRRVLNEIT 87 
+                             5799********************8789***********98555546999*****976666669*********************** PP
+
+             85574at6656 207 wpeivkk...eiv.........vvleaavLlea....kwchevWvviipeeeaikrlkernnlseeeakkriesqps...neekanv 274
+                              pei ++   e++         vvl+  +L+e     +++h++ +v+ +e+  ++rl++r++ +e eakkri++q++   + e++++
+  TCONS_00019494:291-884  88 HPEIHRTiyrEVIkcffmghnfVVLDLPLLFEIrvmlNYIHKIITVTCEEDIQVTRLMDRSQYTEAEAKKRIKAQMPlelKCEQSHF 174
+                             **99764222443444444444999999998752222789***********************************973335678888 PP
+
+             85574at6656 275 vfstlwseevtqkq 288
+                             v+ +  +   t++q
+  TCONS_00019494:291-884 175 VIENSGTLRDTEEQ 188
+                             88776666555555 PP
+
+>> TCONS_00023792:305-832  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   75.6   0.1   7.3e-25   8.5e-23     132     269 ..       1     166 [.       1     176 [] 0.82
+
+  Alignments for each domain:
+  == domain 1  score: 75.6 bits;  conditional E-value: 7.3e-25
+             85574at6656 132 yiigltGgiasGkssiaekleklga.vincdklahelykkg.....kiveefGkeil......idrkkLgaivfkdkekleklneiv 206
+                             +++ ltGgiasGks++++ +++ g+ vi++d +a+++ ++g     ki  +fG+e+       ++r++Lg+i+f+d ek++ lnei 
+  TCONS_00023792:305-832   1 FLVALTGGIASGKSTVTKIFRDNGVpVIDADAIARQVVEPGrpawhKIKAAFGEEVFhaesgeLNREALGRIIFDDVEKRRVLNEIT 87 
+                             5799********************8789***********98555546999*****976666669*********************** PP
+
+             85574at6656 207 wpeivkk...eiv.........vvleaavLlea....kwchevWvviipeeeaikrlkernnlseeeakkriesqpsne 269
+                              pei ++   e++         vvl+  +L+e     +++h++ +v+ +e+  ++rl++r++ +e eakkri++q++ e
+  TCONS_00023792:305-832  88 HPEIHRTiyrEVIkcffmghnfVVLDLPLLFEIrvmlNYIHKIITVTCEEDIQVTRLMDRSQYTEAEAKKRIKAQMPLE 166
+                             **99764222443444444444999999998752222789***********************************9754 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (292 nodes)
+Target sequences:                          470  (174156 residues searched)
+Passed MSV filter:                        26  (0.0553191); expected 9.4 (0.02)
+Passed bias filter:                       19  (0.0404255); expected 9.4 (0.02)
+Passed Vit filter:                         4  (0.00851064); expected 0.5 (0.001)
+Passed Fwd filter:                         4  (0.00851064); expected 0.0 (1e-05)
+Initial search space (Z):                470  [actual number of targets]
+Domain search space  (domZ):               4  [number of targets reported over threshold]
+# CPU time: 0.04u 0.00s 00:00:00.04 Elapsed: 00:00:00.04
+# Mc/sec: 1271.34
+//
+[ok]

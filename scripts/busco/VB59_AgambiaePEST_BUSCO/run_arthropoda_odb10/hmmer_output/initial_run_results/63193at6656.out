@@ -1,0 +1,37 @@
+#                                                                                     --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                 accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#         ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AgamP4_2R:12098232-12099566   -            445 63193at6656          -            327  2.6e-155  513.9   0.2   1   2   4.8e-40   7.4e-38  127.9   0.1     1    94    31   135    31   143 0.94 -
+AgamP4_2R:12098232-12099566   -            445 63193at6656          -            327  2.6e-155  513.9   0.2   2   2  1.2e-117  1.9e-115  382.9   0.0    94   327   168   441   159   441 0.92 -
+AgamP4_3R:50848793-50849392   -            200 63193at6656          -            327   3.9e-40  135.4   0.2   1   2   5.5e-18   8.5e-16   55.4   0.0   123   198     1    87     1    90 0.85 -
+AgamP4_3R:50848793-50849392   -            200 63193at6656          -            327   3.9e-40  135.4   0.2   2   2     6e-25   9.1e-23   78.3   0.0    95   184   100   200    96   200 0.84 -
+AgamP4_X:627301-628038        -            246 63193at6656          -            327   3.8e-38  128.8   0.2   1   2   2.8e-20   4.3e-18   62.9   0.0    97   186     3   101     1   107 0.83 -
+AgamP4_X:627301-628038        -            246 63193at6656          -            327   3.8e-38  128.8   0.2   2   2   1.1e-20   1.8e-18   64.2   0.0    93   192   134   244   125   246 0.83 -
+AgamP4_3R:50849714-50850025   -            104 63193at6656          -            327   2.3e-22   76.9   0.0   1   1   1.5e-24   2.3e-22   76.9   0.0    92   171     3    87     1   104 0.82 -
+AgamP4_3L:41764712-41764948   -             79 63193at6656          -            327   5.9e-21   72.3   0.1   1   1   4.2e-23   6.4e-21   72.2   0.1   120   185     1    77     1    79 0.88 -
+AgamP4_2L:46287431-46287712   -             94 63193at6656          -            327   3.1e-19   66.7   0.0   1   1   2.3e-21   3.5e-19   66.5   0.0   102   184     1    94     1    94 0.85 -
+AgamP4_3L:41763668-41764057   -            130 63193at6656          -            327     3e-16   56.9   0.1   1   1   2.3e-18   3.6e-16   56.6   0.1    98   183    23   118    15   127 0.80 -
+AgamP4_2L:46899800-46900144   -            115 63193at6656          -            327   2.4e-15   53.9   0.0   1   1   1.7e-17   2.7e-15   53.8   0.0    84   169    22   115     7   115 0.84 -
+AgamP4_3R:50850223-50850954   -            244 63193at6656          -            327     1e-14   51.8   0.0   1   2      0.35        54    0.2   0.0    32    65    57    92    25   132 0.66 -
+AgamP4_3R:50850223-50850954   -            244 63193at6656          -            327     1e-14   51.8   0.0   2   2   3.6e-16   5.6e-14   49.4   0.0   114   165   187   243   173   244 0.77 -
+AgamP4_3R:36675294-36675578   -             95 63193at6656          -            327   5.6e-12   42.9   0.2   1   1   3.9e-14     6e-12   42.7   0.2     9    75     6    72     2    88 0.91 -
+AgamP4_3R:36683559-36683843   -             95 63193at6656          -            327   5.9e-12   42.8   0.2   1   1   4.4e-14   6.8e-12   42.6   0.2     9    75     5    71     2    87 0.91 -
+AgamP4_2L:44269004-44269596   -            138 63193at6656          -            327     1e-11   42.0   0.0   1   1   7.7e-14   1.2e-11   41.8   0.0   101   169    37   108    28   133 0.77 -
+AgamP4_2R:36293117-36293386   -             90 63193at6656          -            327   5.6e-08   29.7   0.0   1   1   4.9e-10   7.4e-08   29.3   0.0    14    78     7    70     1    87 0.79 -
+AAAB01007859:20534-20764      -             77 63193at6656          -            327   3.9e-07   26.9   0.0   1   1   2.7e-09   4.1e-07   26.9   0.0   119   184     1    75     1    77 0.79 -
+AgamP4_2R:6817367-6817597     -             77 63193at6656          -            327   3.9e-07   26.9   0.0   1   1   2.7e-09   4.1e-07   26.9   0.0   119   184     1    75     1    77 0.79 -
+AgamP4_2R:20644657-20645907   -            347 63193at6656          -            327   4.5e-07   26.7   0.5   1   1   6.4e-09   9.8e-07   25.6   0.5    88   170   148   238    71   274 0.64 -
+AgamP4_2L:15814842-15815087   -             82 63193at6656          -            327   2.5e-05   21.0   0.0   1   1   1.7e-07   2.6e-05   21.0   0.0    14    73    22    80     8    82 0.74 -
+AgamP4_UNKN:41601282-41601602 -            107 63193at6656          -            327   6.9e-05   19.5   0.0   1   1   5.5e-07   8.4e-05   19.3   0.0    13    74    26    92     3   104 0.50 -
+AgamP4_3R:47428386-47430880   -            348 63193at6656          -            327    0.0039   13.8   0.0   1   1   3.7e-05    0.0057   13.2   0.0    14   152   220   264   208   296 0.60 -
+AgamP4_2R:37466183-37466773   -            171 63193at6656          -            327     0.025   11.1   0.0   1   1   0.00025     0.038   10.5   0.0    17    76     3    63     1    85 0.82 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/63193at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/VB59_AgambiaePEST_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/VectorBase-59_AgambiaePEST_Genome.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/VB59_AgambiaePEST_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/63193at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/63193at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/VB59_AgambiaePEST_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/VectorBase-59_AgambiaePEST_Genome.fasta.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco
+# Date:            Fri Jan 27 16:41:28 2023
+# [ok]

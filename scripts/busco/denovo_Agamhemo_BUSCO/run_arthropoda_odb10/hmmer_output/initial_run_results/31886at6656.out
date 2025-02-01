@@ -1,0 +1,37 @@
+#                                                                                                                --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                            accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                    ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+de_novo.AGAP001879-RA.1:0-2159                           -            720 31886at6656          -            574         0 1029.8  49.1   1   1         0         0 1028.8  49.1     1   574     6   664     6   664 0.93 -
+de_novo.Agm54242U_210819_213017_139199920_ccs.1:0-1877   -            626 31886at6656          -            574  3.4e-297  984.9  49.0   1   1  1.2e-299    6e-297  984.1  49.0     1   543     6   625     6   626 0.92 -
+de_novo.AGAP012369-RA.1:0-2591                           -            864 31886at6656          -            574   9.8e-29   98.5  34.0   1   5   8.7e-05     0.045   10.5   0.5    60   111    21    73     2    86 0.77 -
+de_novo.AGAP012369-RA.1:0-2591                           -            864 31886at6656          -            574   9.8e-29   98.5  34.0   2   5   4.6e-09   2.3e-06   24.6   3.8    89   267    93   284    86   300 0.77 -
+de_novo.AGAP012369-RA.1:0-2591                           -            864 31886at6656          -            574   9.8e-29   98.5  34.0   3   5   2.8e-10   1.4e-07   28.7   6.4    68   231   391   546   368   546 0.73 -
+de_novo.AGAP012369-RA.1:0-2591                           -            864 31886at6656          -            574   9.8e-29   98.5  34.0   4   5   5.1e-09   2.6e-06   24.5   1.0   101   235   480   625   473   632 0.75 -
+de_novo.AGAP012369-RA.1:0-2591                           -            864 31886at6656          -            574   9.8e-29   98.5  34.0   5   5   9.9e-15   5.1e-12   43.3   4.1   307   485   521   712   520   735 0.82 -
+de_novo.Agm54242U_210819_213017_43779834_ccs.1:43-993    -            317 31886at6656          -            574   1.8e-13   48.1   0.0   1   2   1.1e-08   5.4e-06   23.4   0.0   124   269    81   228    76   231 0.91 -
+de_novo.Agm54242U_210819_213017_43779834_ccs.1:43-993    -            317 31886at6656          -            574   1.8e-13   48.1   0.0   2   2   1.4e-08   7.4e-06   23.0   0.0    69   148   228   308   224   315 0.91 -
+de_novo.Agm54242Ue_220404_200923_48825938_ccs.1:240-968  -            243 31886at6656          -            574   7.4e-09   32.9   0.8   1   1   1.9e-11   9.8e-09   32.5   0.8   400   485    17   104     2   131 0.80 -
+de_novo.AGAP003019-RA.1:543-1943                         -            467 31886at6656          -            574   9.5e-05   19.3  11.8   1   4     0.032        16    2.1   0.2   138   230     6    99     3   116 0.68 -
+de_novo.AGAP003019-RA.1:543-1943                         -            467 31886at6656          -            574   9.5e-05   19.3  11.8   2   4     1e-05    0.0051   13.6   1.1   211   268   136   195   113   208 0.79 -
+de_novo.AGAP003019-RA.1:543-1943                         -            467 31886at6656          -            574   9.5e-05   19.3  11.8   3   4   0.00081      0.41    7.3   1.9   190   265   183   260   181   264 0.78 -
+de_novo.AGAP003019-RA.1:543-1943                         -            467 31886at6656          -            574   9.5e-05   19.3  11.8   4   4     0.016       8.3    3.0   0.0   406   453   269   320   260   334 0.82 -
+de_novo.Agm54242U_210909_035710_36112035_ccs.1:543-1847  -            435 31886at6656          -            574   0.00018   18.4  10.9   1   3   2.6e-05     0.013   12.3   1.8   210   261   103   154     3   166 0.87 -
+de_novo.Agm54242U_210909_035710_36112035_ccs.1:543-1847  -            435 31886at6656          -            574   0.00018   18.4  10.9   2   3    0.0011      0.55    6.9   1.7   191   265   152   228   151   232 0.76 -
+de_novo.Agm54242U_210909_035710_36112035_ccs.1:543-1847  -            435 31886at6656          -            574   0.00018   18.4  10.9   3   3     0.018         9    2.9   0.0   406   453   237   288   231   295 0.81 -
+de_novo.Agm54242U_210819_213017_133366791_ccs.1:409-882  -            158 31886at6656          -            574   0.00018   18.4   0.0   1   1     4e-07   0.00021   18.2   0.0    55   167    31   146     4   155 0.79 -
+de_novo.Agm54242U_210909_035710_172819450_ccs.1:733-1623 -            297 31886at6656          -            574    0.0011   15.9   2.2   1   2      0.29   1.5e+02   -1.1   0.0   326   362   123   159    81   172 0.68 -
+de_novo.Agm54242U_210909_035710_172819450_ccs.1:733-1623 -            297 31886at6656          -            574    0.0011   15.9   2.2   2   2   2.5e-06    0.0013   15.6   0.2    83   180   181   278   161   292 0.88 -
+de_novo.Agm54242Ue_220404_200923_5768172_ccs.1:1611-2501 -            297 31886at6656          -            574    0.0011   15.9   2.2   1   2      0.29   1.5e+02   -1.1   0.0   326   362   123   159    81   172 0.68 -
+de_novo.Agm54242Ue_220404_200923_5768172_ccs.1:1611-2501 -            297 31886at6656          -            574    0.0011   15.9   2.2   2   2   2.5e-06    0.0013   15.6   0.2    83   180   181   278   161   292 0.88 -
+de_novo.Agseq_53352.1:0-1709                             -            570 31886at6656          -            574    0.0026   14.6   0.6   1   2      0.75   3.8e+02   -2.5   0.1   325   367   106   150   102   191 0.61 -
+de_novo.Agseq_53352.1:0-1709                             -            570 31886at6656          -            574    0.0026   14.6   0.6   2   2   8.7e-06    0.0044   13.8   0.0    57   169   420   535   405   561 0.80 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/31886at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/31886at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/31886at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco
+# Date:            Sun Jan 29 12:58:42 2023
+# [ok]

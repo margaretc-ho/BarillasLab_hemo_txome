@@ -1,0 +1,1271 @@
+Hypothetical protein
+Unknown product
+Hypothetical secreted protein
+Putative Zinc finger
+Putative WD40 domain
+putative btb
+hypothetical conserved secreted protein precursor
+Putative PDZ domain found in a variety of Eumetazoansignaling molecules
+Putative ankyrin repeats
+Putative leucine-rich repeats
+Putative Bromodomain
+Putative Basic leucine zipper
+Putative Broad-Complex
+Putative Catalytic domain of the Serine/Threoninekinase
+Putative Homeodomain
+Putative Lysophospholipid Acyltransferases
+Putative basic helix-loop-helix-Per-ARNT-Sim
+Putative Formin Homology 2 Domain
+Putative Histidine phosphatase superfamily
+Putative K homology RNA-binding domain
+Putative Kinesin motor domain
+Putative Septin
+Putative SOX-TCF_HMG-box
+putative v atpase 116kda subunit family
+Putative Alcohol dehydrogenase transcriptionfactor Myb/SANT-like
+putative alpha subunit of g protein
+Putative anion exchange protein
+Putative Armadillo/beta-catenin-like repeats
+Putative BAH
+Putative basic Helix-Loop-Helix-zipper
+Putative CAP
+Putative Catalytic domain of the Serine/ThreonineKinases
+Putative Catalytic domain of the Serine/Threonineprotein kinases
+Putative C-terminal Mad Homology 2
+Putative Dock Homology Region 2
+Putative Domain found in a variety of signalling protein
+Putative Ecdysteroid kinase
+Putative ELAV/HuD family splicing factor
+Putative Eukaryotic long-chain fatty acid CoA synthetase
+putative insect pheromone-binding family - signalP detected
+Putative MBW66506.1 putative ubiquitin carboxyl-terminal hydrolase 6
+Putative MBW68230.1 putative vesicle-associated membrane protein 2
+Putative MER0260880 - family T3 unassigned peptidases (Dasypus novemcinctus
+Putative multi drugresistance-associated protein
+Putative Permease P
+Putative Pleckstrin homology domain
+Putative Present in
+putative protein
+Putative RING finger
+Putative Sec7 domain
+Putative SH3 domain-binding protein 5
+Putative Sterile alpha motif
+Putative Tetratricopeptide repeat
+Putative The Bin/Amphiphysin/Rvs
+Putative The F-BAR
+Putative UniRef50_A0A1S4HDW8 Peptidase S1 domain-containing protein n=11Tax=gambiae species complex TaxID=44542 RepID=A0A1S4HDW8_ANOGA
+Putative XP_035899182.1 transcription factor Sp4-like isoform X5
+Putative XP_035899235.1 transient receptor potential cation channel proteinpainless-like isoform X1
+Putative XP_035914612.1 TGF-beta receptor type-1 isoform X2
+Putative XP_035917561.1 serine protease snake-like isoform X1
+#N/A
+40S ribosomal protein S3a; AltName: Full=C3 protein Length=269
+Adenylate kinase; AltName: Full=ATP-AMP transphosphorylase; AltName:
+Calcium-transporting ATPase sarcoplasmic/endoplasmic reticulum type; AltName:
+Choline transporter-like 2 Length=790
+Enolase-phosphatase E1; AltName: Full=2,3-diketo-5-methylthio-1-phosphopentane
+Glutathione S-transferase 1, isoform B; AltName: Full=AgGst1-alpha; AltName:
+Glutathione S-transferase D7; AltName: Full=Aggst1-7; AltName: Full=GST
+Histone-arginine methyltransferase CARMER; AltName: Full=Coactivator-associated
+NAD(P)H-hydrate epimerase; AltName: Full=NAD(P)HX epimerase Length=229
+proteinral odorant-binding protein 67-like isoformx1 stephensi
+Putative ABF66618.1 putative cytoplasmic carbonic anhydrase
+Putative Acetyl-CoA carboxylase
+Putative ADAM-TS Spacer 1 - signalP detected
+putative adenylate cyclase terminal-differentiation specificmarajoara
+putative adenylate cyclase type 2 isoform x4 stephensi
+putative adenylate cyclase type 2 stephensi
+putative adenylate cyclase type 3 stephensi
+putative adenylate cyclase type 9 isoform x1 stephensi
+Putative AGAP000155-PA alkylated DNA repair protein alkB homolog
+Putative AGAP000349-PA transient receptor potential cation channel subfamilyC invertebrate
+Putative AGAP000651-PB Actin-5C
+Putative AGAP001130-PA poly(A) RNA polymerase GLD2
+Putative AGAP001446-PB AMP-activated protein kinase gamma regulatorysubunit
+Putative AGAP001469-PA Protein tyrosine phosphatase receptor type fpolypeptide (PTPRF) interacting protein (liprin)
+Putative AGAP001523-PA ATP-binding cassette transporter (ABC transporter)family A member 7
+Putative AGAP001769-PD beat protein - signalP detected
+Putative AGAP001783-PB microtubule-severing ATPase
+Putative AGAP002079-PA Arrestin_C domain-containing protein
+Putative AGAP002109-PA solute carrier family 31 (copper transporter)member 1
+Putative AGAP002324-PB mitochondrial sodium/hydrogen exchanger NHA2
+Putative AGAP002498-PA vacuolar protein sorting 39
+Putative AGAP002506-PA runt-related transcription factor
+Putative AGAP002671-PA beta-13-galactosyltransferase 1
+Putative AGAP002802-PB neural cell adhesion molecule - signalP detected
+Putative AGAP002879-PB cathepsin F - signalP detected
+Putative AGAP003221-PA ATP-binding cassette transporter (ABC transporter)family C member 3
+Putative AGAP003276-PA splicing factor arginine/serine-rich 17
+Putative AGAP003369.P253 RNA-binding protein 16
+Putative AGAP004201-PA a disintegrin and metalloproteinase with thrombospondinmotifs 9
+Putative AGAP004544-PA solute carrier family 35 member F3/4 - signalP detected
+Putative AGAP005203-PF peptidoglycan recognition protein (long)
+Putative AGAP005205-PA peptidoglycan recognition protein (long)
+Putative AGAP005963-PA Ubiquitin-like domain-containing protein
+Putative AGAP006460-PA HTH La-type RNA-binding domain-containing protei
+Putative AGAP006669-PA arginine-glutamic acid dipeptide repeats protein
+Putative AGAP007065-PB transcription factor CP2 and related protein
+Putative AGAP007114-PA RING finger and CCCH-type zinc finger domain-containingprotein
+Putative AGAP007237-PA Heme peroxidase 4 - signalP detected
+Putative AGAP007256-PA Multiple epidermal growth factor-like domains 10 - signalP detected
+Putative AGAP007608.P519 MADS-box transcription enhancer factor 2 invertebrate
+Putative AGAP007718-PA Glycosyltransferase family 92 protein
+Putative AGAP007757-PA Gustatory receptor
+Putative AGAP007978-PA histone-lysine N-methyltransferase SETDB
+Putative AGAP008435-PB transient receptor potential cation channel subfamilyC invertebrate
+Putative AGAP009424-PD Calponin-homology (CH) domain-containing protei
+Putative AGAP009471-PA ATP-binding cassette transporter (ABC transporter)family G member 19
+Putative AGAP009827-PA CCR4-NOT transcription complex subunit 4
+Putative AGAP009835-PB ATP-binding cassette transporter (ABC transporter)family C member 14 - signalP detected
+Putative AGAP009947-PA beat protein
+Putative AGAP010416-PA ATP-binding cassette transporter (ABC transporter)family A member 8
+Putative AGAP010669.P344 TOLL-like receptor 5B
+Putative AGAP010800-PD nuclear protein NHN1
+Putative AGAP011118-PA focal adhesion kinase 1
+Putative AGAP012141-PA ankyrin repeat-rich membrane spanning protein
+Putative AGAP012383-PA organic cation transporter
+Putative AGAP012481-PA histone-lysine N-methyltransferase SETD8 - signalP detected
+Putative AGAP027982.P182 Tetraspanin
+Putative AGAP028728-PA CLIP-domain serine protease
+Putative AGAP029101-PA Calponin-homology (CH) domain-containing protei
+Putative AGAP029451-PA ATP-binding cassette transporter (ABC transporter)family G member 3
+Putative AGAP029514-PA Protein kinase domain-containing protein
+Putative AGAP029531-PB Protein kinase domain-containing protein
+Putative AGAP029678-PA Myosin motor domain-containing protein
+Putative AGAP029686-PA ATP-binding cassette transporter (ABC transporter)family C member 6
+Putative Aldehyde dehydrogenase family 3 members A1
+Putative Alpha galactosidase A - signalP detected
+putative alpha-2-macroglobulin family
+Putative Alpha-crystallin domain
+Putative Alternative splicing regulator
+Putative Amyloid beta
+Putative AN1-like Zinc finger
+Putative Ancestral coatomer element 1
+Putative Anillin Pleckstrin homology
+Putative apolipoprotein D and similar protein - signalP detected
+Putative Apx/Shroom domain ASD2
+Putative ArfGap with dual PH domains
+Putative ARF-like small GTPases
+Putative ARID/BRIGHT DNA binding domain of deadringer
+Putative Ataxin-1 and HBP1 module
+Putative ATPase family associated with various cellularactivities
+Putative Band 4
+Putative basic helix-loop-helix
+Putative BBH63279.1 transient receptor potential cation channel subfamilyA member 1 isoform C
+Putative Bestrophin
+Putative Bravo-like intracellular region - signalP detected
+Putative BSD domain
+Putative Bubblegum-like very long-chain fatty acidCoA synthetase
+Putative C2 domain found in 5' repressor elementunder dual repression binding protein-1
+Putative C2 domain second repeat contained inRab3-interacting molecule
+Putative C2 domain sixth repeat in Ferlin
+Putative C2 domain third repeat present in uncharacterizedhuman KIAA1228-like protein
+Putative Ca2+-binding protein
+Putative Cadherin tandem repeat domain
+Putative Cadherin tandem repeat domain - signalP detected
+Putative Calcium-activated chloride channel
+Putative Calcium-independent phospholipase A2
+Putative calmodulin
+Putative Calpain family cysteine protease
+Putative Calponin homology
+Putative CAP-Gly domain
+Putative Carbohydrate/starch-binding module
+Putative Carbonic anhydrase alpha relatedprotein: groups X - signalP detected
+Putative cargo binding domain of myosin5-like of afadin
+Putative Casein kinase II regulatory subunit
+Putative Catalytic domain of Class I Phosphoinositide3-kinase
+Putative Catalytic domain of Class II Phosphoinositide3-kinase
+Putative Catalytic domain of Mammalian Ste20-likeprotein kinase 3-like Serine/Threonine Kinases
+Putative Catalytic domain of metazoan phosphoinositide-specificphospholipase C-beta
+Putative Catalytic domain of the Dual-specificity proteinkinases
+Putative Catalytic domain of the protein kinase
+Putative Catalytic domain of the protein kinases
+Putative Catalytic domain of the Protein TyrosineKinase
+Putative Catalytic domain of the Serine/Threonine Kinases
+Putative Catalytic domain of the Serine/Threonine proteinkinase
+Putative Catalytic domain of the Serine/Threonineprotein kinase
+Putative Catalytic domain of Type III Phosphoinositide4-kinase beta
+Putative Catalytic inositol polyphosphate 5-phosphatase
+Putative Catalytic inositol polyphosphate5-phosphatase
+Putative Cell death protein 6 homolog
+Putative CG-1 domains are highly conserved domains ofabout 130 amino-acid residues
+Putative Chitin binding Peritrophin-A domain
+Putative Chromosome condensation complex Condensin
+Putative CID
+Putative Ciliary basal body-associated
+Putative Cloned out of library/PAK-interactive exchangefactor pleckstrin homology
+Putative Coenzyme A pyrophosphatase
+Putative Cortactin-binding protein-2
+Putative CP2 transcription factor
+Putative C-terminal deadenylase domainof nocturnin and related domains
+Putative C-terminal dual-specificity phosphatase domainof CDC14 family protein
+Putative CUE domain found in the N-terminal ofTGF-beta-activated kinase 1 and MAP3K7-binding protein TAB2
+Putative cyclin ccl1
+putative cytochrome p450 10-like stephensi - signalP detected
+putative cytochrome p450 4d2-like isoform x2 stephensi
+putative cytochrome p450 stephensi - signalP detected
+Putative DAN domain - signalP detected
+Putative DB module - signalP detected
+putative dde superfamily endonuclease
+Putative DEAD/DEAH box helicase
+Putative DEAD-box helicase domain of DEAD box protein6
+Putative DEDDy 3'-5' exonuclease domain of DrosophilaEgalitarian
+Putative DENN
+Putative Deoxyhypusine synthase
+Putative DEP
+Putative DEXH-box helicase domain of ARIP4
+Putative D-hydantoinases
+Putative Diacylglycerol kinase accessory domain
+Putative Diacylglycerol kinase catalytic domain
+Putative Disco-interacting protein 2
+Putative DnaJ-class molecular chaperone with C-terminalZn finger domain
+Putative domain present in cyclins
+Putative Dual oxidase maturation factor
+Putative dual specificity phosphatase domain ofslingshot family phosphatases
+Putative Dynein heavy chain and region D6 ofdynein motor
+Putative Dystroglycan - signalP detected
+putative e3 ubiquitin ligase triannulatus
+putative e3 ubiquitin-protein ligase amfr-like stephensi - signalP detected
+putative e3 ubiquitin-protein ligase cbl-b braziliensis
+putative e3 ubiquitin-protein ligase herc2 stephensi
+putative e3 ubiquitin-protein ligase hyd isoform x4 stephensi
+putative e3 ubiquitin-protein ligase makorin-2stephensi
+putative e3 ubiquitin-protein ligase mib2 stephensi
+putative e3 ubiquitin-protein ligase mylip isoform x2 stephensi
+putative e3 ubiquitin-protein ligase nedd-4 isoform x1stephensi
+putative e3 ubiquitin-protein ligase nrdp1 stephensi
+putative e3 ubiquitin-protein ligase rnf19b-like isoformx1 stephensi
+putative e3 ubiquitin-protein ligase sudx-like stephensi
+putative e3 ubiquitin-protein ligase topors-like stephensi
+putative e3 ubiquitin-protein ligase trim33 isoform x2stephensi
+putative e3 ubiquitin-protein ligase ufd4 isoform x4 stephensi
+putative e3 ubiquitin-protein ligase znrf2-like stephensi
+putative e3 ubiquitin-protein ligasehighwire stephensi
+Putative EF-hand-like motif found in the dystrophinssubfamily
+Putative Enabled/VASP family EVH1 domain
+Putative Epsin N-Terminal Homology
+Putative Euykaryotic Choline Kinase
+Putative Extended PHD finger found in proteinAF-10 and AF-17
+Putative Fe65 N-terminal Phosphotyrosine-binding
+Putative FEN-like PIN domains of FAM120B
+Putative Fibronectin type 3 domain
+Putative Filamin-type immunoglobulin domains
+Putative First immunoglobulin
+Putative Flotillin or reggie family
+Putative Forkhead domain
+putative fyve domain found in myotubularin-relatedprotein 4
+Putative G protein gamma subunit-like motifs
+Putative gamma-Secretase-activating protein C-term
+Putative Gelsolin sub-domain 4-like domainfound in gelsolin
+putative ghh signature
+Putative Glucose transporter - signalP detected
+Putative Glycerophosphoryl diester phosphodiesterasefamily
+Putative Glycosyl-transferase for dystroglycan
+putative goliath e3 ubiquitin ligase braziliensis
+Putative GPN-loop GTPase 1
+Putative G-protein pathway suppressor
+Putative G-protein pathway suppressor 2-interactingdomain
+Putative GTP binding protein 1
+Putative Guanine nucleotide exchange factor for Ras-likesmall GTPases
+Putative Haemolymph juvenile hormone binding protein - signalP detected
+Putative High Mobility Group
+Putative HMGB-UBF_HMG-box
+Putative hnRNP-L/PTB/hephaestussplicing factor family
+putative hoip uba domain pair
+Putative Homeobox KN domain
+Putative Homeo-prospero domain
+Putative human Mgc4172-like
+Putative HYR domain
+Putative Immunoglobulin domain
+Putative Immunoglobulin I-set domain
+Putative Importin beta-related nuclear transport recepto
+Putative Indigoidine synthase A like protein
+Putative Insect cuticle protein - signalP detected
+Putative insect photoreceptors R1-R6and similar protein
+Putative Integrin alpha
+Putative Ion channel
+Putative JAA98248.1 putative regulation of transcription dna-dependent
+Putative JAA98577.1 hypothetical protein
+Putative JAA99035.1 putative downstream of receptor kinase
+Putative JAA99145.1 putative protein with signal anchor - Membrane anchor detected
+Putative JAA99167.1 putative cytokinesis actomyosin contractile ring assembl
+Putative JAB01148.1 putative activating transcription factor-2 partial - signalP detected
+Putative JAB01286.1 putative leucine-rich repeat-containing g protein-coupled receptor6 partial - signalP detected
+Putative JAB01458.1 putative lim domain transcription factor lmo4-b partia
+Putative JAC08500.1 putative calcineurin b2
+Putative JAC11837.1 protein kinase interferon-inducible double strandedrna dependent activator partial
+Putative JAC12279.1 putative muscle m-line assembly protein unc-89 partial
+Putative JAC13032.1 putative myosin class ii heavy chain
+Putative JAC13530.1 putative cholesterol transport protein partial
+Putative JAC15317.1 putative thyroid hormone receptor-associated protein complexsubunit partial
+Putative JAC47661.1 Sodium leak channel non-selective protein partia
+Putative JAN94883.1 putative ubiquitin specific proteinase partial
+Putative JAN94948.1 putative transcriptional regulator partial
+Putative JAN95842.1 putative aspartyl beta-hydroxylase
+Putative JAN95849.1 putative ark protein kinase family partial
+Putative JAV13794.1 putative titin isoform x3
+Putative JAV19503.1 putative serine/threonine-protein kinase
+Putative JAV19818.1 putative nuclear membrane protein involved in mrna transpor
+Putative JAV24312.1 putative ankyrin repeat protein
+Putative JAV27646.1 putative actin-binding protein coronin
+Putative JAV29212.1 putative ribonuclease p/mrp subunit
+Putative JAV31346.1 putative transcription factor zerknullt
+Putative JAV31456.1 putative neural cell adhesion molecule l1 - signalP detected
+Putative JAV31738.1 putative gtpase-activating proteinral function prediction onl
+Putative JAV32778.1 putative ankyrin
+Putative JAV33046.1 putative ficolin-like protein - signalP detected
+Putative JAV34489.1 putative activating signal cointegrator 1 complex subunit 2 proteinisoform x6
+Putative JAV34659.1 putative calcium/calmodulin-dependent serine protein kinase/membrane-associatedguanylate kinase
+Putative JAV46779.1 putative pol-like protein partial
+Putative JAV46902.1 putative serine/threonine protein phosphatase partial
+Putative JAV47398.1 putative ecdysteroid kinase partial
+Putative JAV47574.1 putative lachesin-like protein partial
+Putative JAV47631.1 putative myosin class ii heavy chain partial
+Putative JAW12937.1 putative receptor mediating netrin-dependent axon guidance partia
+Putative Kinase non-catalytic C-lobe domain
+Putative La RNA-binding domain protein similar toLa-related protein 1 and 2
+Putative LIM-domain binding protein
+Putative Lipid-binding SRPBCC domain ofmammalian PITPNC1
+Putative Lipid-binding SRPBCC domain ofmammalian PITPNM1-2 and related protein
+Putative lipocalin/cytosolic fatty acid-bindingprotein family - signalP detected
+Putative LKB1 serine/threonine kinase interacting protein1
+Putative LMBR1-like membrane protein - signalP detected
+Putative LRRFIP family
+Putative Major facilitator superfamily domain-containing14A and 14B
+Putative Major facilitator superfamily domain-containingprotein 10
+Putative Major facilitator superfamily domain-containingprotein 6
+Putative Major facilitator superfamily domain-containingprotein 8
+Putative Major royal jelly protein
+Putative Major royal jelly protein - signalP detected
+Putative Malate/L-lactate dehydrogenase
+Putative maleylacetoacetate isomerase
+Putative MamL-1 domain
+Putative MBC1169923.1 putative cadherin egf lag seven-pass g-type recepto
+Putative MBC1171952.1 putative gata transcription factor gatac
+Putative MBW21115.1 putative dna topoisomerase i-interacting protein
+Putative MBW21145.1 putative cdc42 rho gtpase-activating protein
+Putative MBW21247.1 putative germ-line stem cell division protein hiwi/piwi
+Putative MBW21261.1 putative ras-related small gtpase rho type
+Putative MBW21579.1 putative alpha-protein kinase 1
+Putative MBW21647.1 putative microtubule-binding calmodulin-regulated spectrin-associate
+Putative MBW21730.1 putative member of the intramitochondrial sorting protein famil
+Putative MBW21962.1 putative domon domain of stromal cell-derived receptor2 - signalP detected
+Putative MBW23026.1 putative transforming growth factor beta bone morphoproteinticprotein - signalP detected
+Putative MBW23426.1 putative monocarboxylate transporter
+Putative MBW24209.1 putative doublesex and mab-3 related transcription factor 1
+Putative MBW25667.1 putative microtubule associated complex
+Putative MBW26242.1 putative rho gtpase-activating protein 20
+Putative MBW26771.1 putative lysosomal & prostatic acid phosphatase - signalP detected
+Putative MBW27213.1 putative multifunctional chaperone 14-3-3 family
+Putative MBW27674.1 putative ras-related small gtpase rho type
+Putative MBW27791.1 putative transcription factor ctbp
+Putative MBW28149.1 putative dnaj-class molecular chaperone
+Putative MBW28165.1 putative transporter
+Putative MBW28748.1 putative ras-related in brain
+Putative MBW29232.1 putative salivary secreted peptide
+Putative MBW33495.1 putative ca2+-binding actin-bundling protein
+Putative MBW33582.1 putative chromatin remodeling complex swi/snf component swi
+Putative MBW34012.1 putative rna-binding ran zn-finger protein
+Putative MBW34231.1 putative thyroid hormone receptor-associated protein complexsubunit
+Putative MBW34257.1 putative histone acetylation protein
+Putative MBW34592.1 putative mediator of rna polymerase ii transcriptionsubunit 26
+Putative MBW34914.1 putative conserved secreted mucin
+Putative MBW34926.1 protein with signal anchor
+Putative MBW35095.1 putative monocarboxylate transporter
+Putative MBW36186.1 putative lim and calponin similarity -containing protein 1
+Putative MBW36196.1 putative u4/u6-associated splicing factor prp4
+Putative MBW36720.1 putative rna-binding protein fusilli
+Putative MBW36799.1 putative rna polymerase ii c-terminal domain-binding proteinra4
+Putative MBW37059.1 putative transporter add1 major facilitator superfamily
+Putative MBW37242.1 putative splicing factor ptsr1
+Putative MBW37436.1 putative ring finger protein 17
+Putative MBW37724.1 putative histone acetyltransferase kat6b-like protein
+Putative MBW37737.1 putative mn2+ and fe2+ transporter of the nramp family
+Putative MBW37767.1 putative splicing factor arginine/serine-rich 7
+Putative MBW37803.1 putative polyhomeotic-proximal chromatin protein
+Putative MBW37918.1 putative gaba-a receptor
+Putative MBW39138.1 putative p53 regulated pa26 nuclear protein sestrin
+Putative MBW39298.1 putative cell wall protein iff6
+Putative MBW39506.1 putative udp-sugar transporter ust74c
+Putative MBW39772.1 putative esterase and lipase - signalP detected
+Putative MBW40148.1 putative nuclear transport receptor karyopherin-beta2/transportinimportin beta superfamily
+Putative MBW40216.1 putative ca2+-binding actin-bundling protein
+Putative MBW41596.1 putative serine/threonine-protein kinase
+Putative MBW41670.1 putative gtpase-activating protein
+Putative MBW41697.1 putative transcription factor meis1
+Putative MBW42906.1 putative lipocalin-interacting membrane receptor lim lipocalin
+Putative MBW43576.1 putative mitochondrial thymidine kinase 2/deoxyguanosine kinas
+Putative MBW44579.1 putative nuclear pore complex protein
+Putative MBW45958.1 putative camp-dependent protein kinase inhibitor
+Putative MBW46169.1 putative ficolin
+Putative MBW49160.1 putative lysosomal trafficking regulator lyst
+Putative MBW49237.1 putative histone deacetylase complex
+Putative MBW49242.1 putative mucin-19
+Putative MBW49399.1 putative sorting nexin
+Putative MBW49598.1 putative histone-lysine n-methyltransferase 2d
+Putative MBW50014.1 putative actin-binding protein
+Putative MBW50045.1 proteinral transcription factor 3c polypeptide 2
+Putative MBW50126.1 putative metalloendopeptidase
+Putative MBW50337.1 putative selenocysteine lyase/cysteine desulfurase posttranslationalmodification
+Putative MBW50550.1 putative tropomyosin
+Putative MBW50557.1 putative nuclear transport receptor kap120 importin beta superfamil
+Putative MBW50760.1 putative calcium/calmodulin-dependent serine protein kinase/membrane-associatedguanylate kinase
+Putative MBW50771.1 putative inositol polyphosphate multikinase component of theargr transcription regulatory complex
+Putative MBW50807.1 putative monocarboxylate transporter
+Putative MBW51473.1 putative mediator of rna polymerase ii transcription subunit26
+Putative MBW51558.1 putative transducin-like enhancer of split protein
+Putative MBW51776.1 putative cell wall protein iff6
+Putative MBW51778.1 protein with signal anchor
+Putative MBW52086.1 putative beta-galactosidase/beta-glucuronidase carbohydrate transportand metabolism
+Putative MBW52421.1 putative lysine--trna ligase
+Putative MBW52456.1 putative rna-binding protein cabeza
+Putative MBW52485.1 putative integumentary mucin c.1 - signalP detected
+Putative MBW53036.1 putative esterase and lipase
+Putative MBW53672.1 protein in glucosyltransferase
+Putative MBW54156.1 putative transcription factor
+Putative MBW54702.1 putative rna-binding protein elav/hu rrm superfamil
+Putative MBW56190.1 putative lysozyme-like protein
+Putative MBW56287.1 putative spliceosome subunit
+Putative MBW56757.1 putative histone-lysine n-methyltransferase 2d-likeisoform x5
+Putative MBW57217.1 putative chromatin associated protein kti12
+Putative MBW57244.1 putative microtubule binding protein
+Putative MBW58627.1 putative chromatin complex subunit bap18
+Putative MBW59335.1 putative clathrin adaptor complex small subunit
+Putative MBW64409.1 putative peptidase m14-like domain of atp/gtp binding protei
+Putative MBW64713.1 putative ki-ras-induced actin-interacting protein-ip3r-interactin
+Putative MBW65028.1 putative alpha-tubulin suppressor
+Putative MBW65192.1 putative neural cell adhesion molecule l1 - signalP detected
+Putative MBW65275.1 putative piezo-type mechanosensitive ion channel component2 isoform x6 - signalP detected
+Putative MBW65490.1 putative cubilin multiligand receptor mediating cobalamin absorptio
+Putative MBW65527.1 putative pilin-like transcription factor
+Putative MBW65920.1 putative microtubule-associated protein
+Putative MBW66036.1 putative transcription factor nerf
+Putative MBW66195.1 putative sugar transporter/spinster transmembrane protein
+Putative MBW66256.1 putative heat shock transcription factor hsf
+Putative MBW66301.1 putative extracellular matrix glycoprotein laminin subunit alphaand gamma
+Putative MBW66427.1 putative zyg-1-like serine/threonine protein kinase
+Putative MBW67216.1 putative spliceosomal protein fbp11/splicing factor prp40
+Putative MBW67280.1 putative actin-binding protein coronin
+Putative MBW67281.1 putative microtubule associated-protein orbit
+Putative MBW67340.1 putative serine/threonine-protein kinase
+Putative MBW67613.1 putative molecular chaperone dnaj superfamily
+Putative MBW67846.1 putative alcohol dehydrogenase transcription factormyb/sant-like protein
+Putative MBW67891.1 putative alpha-protein kinase 1
+Putative MBW68055.1 putative serine/threonine-protein kinase nek3
+Putative MBW68842.1 putative myosin class ii heavy chain
+Putative MBW68972.1 putative transducin-like enhancer of split protein
+Putative MBW69159.1 putative mitogen-activated protein kinase erk-a
+Putative MBW69865.1 putative ca2+-binding actin-bundling protein
+Putative MBW70263.1 putative hsp90 co-chaperone cpr7/cyclophilin
+Putative MBW70319.1 putative runt-related transcription factor 2
+Putative MBW70561.1 putative calcium/calmodulin-dependent serine protein kinase/membrane-associatedguanylate kinase
+Putative MBW70657.1 putative lateral signaling target protein 2 - signalP detected
+Putative MBW71270.1 putative titin isoform x2
+Putative MBW78224.1 putative heparin sulfate cell surface proteoglycan - signalP detected
+Putative MBW78958.1 putative corticosteroid 11-beta-dehydrogenase - signalP detected
+Putative MBW79277.1 putative cystine transporter cystinosin - signalP detected
+Putative MBW80340.1 putative myosin heavy chain striated muscle
+Putative Member of the Rhodanese Homology Domainsuperfamily
+Putative MER0021298 - family M2 unassigned peptidases (Anopheles gambiae
+Putative MER0022540 - CG7432 protein ({Drosophila melanogaster}) (Anophelesgambiae)
+Putative MER0167610 - family I63 unassigned peptidase inhibitors (Branchiostomafloridae)
+Putative MER0183035 - family I63 unassigned peptidase inhibitors (Ochotonaprinceps)
+Putative MER0205003 - family I43 unassigned peptidase inhibitors (Anophelesgambiae)
+Putative MER0218084 - family I43 unassigned peptidase inhibitors (Drosophilasimulans)
+Putative MER0278343 - family I63 unassigned peptidase inhibitors (Glossinamorsitans)
+Putative MER0620956 - family I8 unassigned peptidase inhibitors (Acyrthosiphonpisum)
+Putative MER0782975 - family I43 unassigned peptidase inhibitors (Psorophoraalbipes) - signalP detected
+Putative MER0807980 - family I87 unassigned peptidase inhibitors (Anophelesgambiae)
+Putative Methuselah-like subfamily B3
+Putative MGS-like domain
+Putative Mitochondrial ATP synthase epsilon chain
+Putative Mitochondrial carrier protein
+Putative Mitochondrial succinate-semialdehydedehydrogenase and ALDH family members 5A1 and 5F1-like
+Putative MoaC family
+Putative Mob1/phocein family
+putative modified ring finger
+Putative Mpv17 / PMP22 family
+Putative Myb-Like Dna-Binding Domain of MTA3and related protein
+putative nadph--cytochrome p450 reductase isoform x1 stephensi
+Putative NBJ59832.1 putative hybrid signal transduction histidine kinase k-like protei
+Putative NBJ60356.1 putative low-density lipoprotein receptor domain class a
+Putative NLS-binding and DNA-binding and dimerizationdomains of Nrf1
+Putative NMDA receptor-regulated protein 1
+Putative NOPS domain
+Putative NOT2 / NOT3 / NOT5 family
+Putative N-terminal catalytic domain of the Serine/ThreonineKinase
+Putative N-terminal of Homeobox Meis and PKNOX1
+Putative N-terminal SNARE motif of SNAP25and SNAP23
+Putative N-terminal Src homology 2
+Putative N-terminal sub-domain of the Rel homologydomain
+Putative Nucleoside 2-deoxyribosyltransferaselike
+Putative Nucleotide-binding domain of human HYOU1and similar protein - signalP detected
+Putative Numb Phosphotyrosine-binding
+putative odorant binding protein antennal triannulatus
+putative odorant-binding protein a10 stephensi
+Putative Organic solute transporter Ostalpha
+Putative OTU-like cysteine protease
+Putative oxidoreductase GLYR1 homolog; AltName: Full=Glyoxylate reductase 1
+Putative p63RhoGEF pleckstrin homology
+Putative PAS domain
+Putative PAXNEB protein
+Putative PDZ domain
+Putative Pellino
+Putative Peptide chain release factor 1
+Putative Peroxisomal acyl-CoA oxidase
+Putative Peroxysomal Fatty Acyl CoA Transporter
+Putative PHAT
+Putative PHD finger found in
+Putative Phosphate acyltransferases - signalP detected
+Putative Phosphatidylinositol 3- and 4-kinase
+Putative Phosphatidylinositol-4-phosphate 5-Kinase
+Putative Phosphoglycerate mutase family
+Putative Phosphoinositol 3-phosphate binding protein1
+Putative Phosphoribulokinase / Uridine kinase family
+Putative Pleckstrin homology domain-containingfamily G members 1
+Putative Plexin cytoplasmic RasGAP domain - signalP detected
+Putative Possible plasma membrane-binding motif in junctophilins
+Putative pre-mRNA processing factor 3
+Putative Profilin
+Putative Prohibitin family
+Putative Protein kinase C conserved region 1
+Putative Protein of unknown function
+Putative Protein similar to and including lifeguard
+Putative protein tyrosine phosphatase type IVA family
+Putative protein tyrosine phosphatase-like domainof myotubularin related phosphoinositide phosphatases 6
+Putative Protein-interacting Bro1-like domainof RhoA-binding protein Rhophilin and related domains
+Putative protein-tyrosine phosphatase mitochondrial 1
+Putative PR-SET domain found in PR domain zincfinger protein 1
+Putative Pseudokinase domain of Scy1-like protein
+Putative Pumilio-family RNA binding domain
+Putative Purine nucleoside phosphorylase
+Putative Putative nucleic acid-binding region
+Putative Pyruvate kinase
+Putative R3H domain of encore-like and DIP1-likeprotein
+Putative Ras-associating
+putative receptor guanylate cyclase gyc76c-like stephensi - signalP detected
+Putative Regulator of G protein signalling domain
+Putative Rem
+Putative retinal-specific rim ABC transporter
+Putative retinol dehydrogenase
+Putative retinol dehydrogenase - signalP detected
+Putative rho guanine nucleotide exchangefactor
+Putative RhoGAP_ARHGAP21: RhoGAP
+Putative RhoGAP_KIAA1688: GTPase-activator protein
+Putative RhoGAP_nadrin: RhoGAP
+Putative Rho-Interacting Protein Pleckstrin homology
+Putative RING-CH finger
+Putative RNA polymerase II transcription elongation factor
+Putative RNA recognition motif
+Putative RNA recognition motif 1 in CUGBPElav-like family member CELF-1
+Putative RNA recognition motif 1 in heterogeneousnuclear ribonucleoprotein M
+Putative RNA recognition motif 1 in TAR DNA-bindingprotein 43
+Putative RNA recognition motif 2 in CUGBP Elav-likefamily member CELF-3
+Putative RNA recognition motif 2 in serine/arginine-richsplicing factor 4
+Putative RNA recognition motif 3 in heterogeneousnuclear ribonucleoprotein hnRNP H protein family
+Putative RNA recognition motif 3 in heterogeneousnuclear ribonucleoprotein R
+Putative RNA recognition motif in
+Putative RNA recognition motif in U2 small nuclearribonucleoprotein auxiliary factor 35 kDa subunit-related protein 1
+Putative RNA recognition motif in vertebrate RNAbinding protein fox-1 homologs and similar protein
+Putative RNA recognition motif of pre-mRNA cleavagefactor Im 68 kDa subunit
+Putative RUN domain
+Putative S phase cyclin A-associated protein in theendoplasmic reticulum
+Putative SAC3/GANP family
+Putative S-adenosylmethionine synthetase
+Putative SAM domain of SARM1-like
+Putative SAM domain of USH1G_HARP family
+Putative SCA7
+Putative Scavenger mRNA decapping enzyme C-term binding
+Putative Scavenger receptor Cys-rich - signalP detected
+Putative Second immunoglobulin - signalP detected
+Putative Sesquipedalian family Pleckstrin homology
+Putative SET domain
+Putative Seven in absentia protein family
+Putative sex-lethal family splicing factor
+Putative SH3-binding
+Putative Single-stranded DNA binding protein
+Putative Sister chromatid cohesion C-terminus
+Putative SNARE domain of STXBP5
+Putative SNARE motif of syntaxin 6
+Putative sodium/hydrogenexchanger 3
+putative soluble guanylate cyclase 88e isoform x1 stephensi
+putative speckle poz protein
+Putative Spondin_N - signalP detected
+Putative Sprouty-related EVH1 domain-containing-likeprotein EVH1 domain
+Putative SPRY domain in heterogeneous nuclear ribonucleoproteinU-like
+putative spry domain in the f-box family fbxo45
+Putative Spt20 family
+Putative Src homology 3 domain of Ubiquitin-associatedand SH3 domain-containing protein
+putative src similarity 2
+Putative SRF-like/Type I subfamily of MADS
+Putative Stromal membrane-associated protein
+Putative sulfite oxidase mitochondrial  - signalP detected
+putative swi/snf-like complex subunit
+Putative Synaphin protein
+Putative Syntaxin
+Putative Talin
+Putative TBP-like factors
+Putative Tensin Phosphotyrosine-binding
+Putative Tetraspanin family
+Putative Tetraspanin family - signalP detected
+Putative The catalytic domain of the GiantSerine/Threonine Kinases
+Putative The ferredoxin-reductase
+Putative The first LIM domain of protein PINCH
+Putative The first LIM domain of the paxillinlike protein family
+Putative The ligand binding domain of heptocytenuclear factor 4
+Putative The ligand binding domain of REV-ERBreceptors
+Putative The ligand binding domain of the retinoidX receptor and Ultraspiracle
+Putative The PET domain of protein LIMPETinand LIM-9
+Putative The third LIM domain of an Enigmasubfamily with unknown function
+Putative Third
+Putative Third Src Homology 3 domain
+Putative This conserved domainfamily includes a large number of catalytically inactive chitinase-like lectins
+Putative This domain is found in the protein Piwi andits relatives
+Putative TMEM214
+Putative Toll - interleukin 1 - resistance
+Putative Transmembrane protein 138
+Putative Tropomodulin
+Putative TRX domain - signalP detected
+Putative Trypsin-like serine protease - signalP detected
+Putative Type I inositol 3
+Putative Type I inositol polyphosphate 5-phosphataseI
+Putative Ubinuclein conserved middle domain
+Putative Ubiquitin carboxyl-terminal hydrolase
+Putative ubiquitin-like
+putative ubiquitin-protein ligase/hyperplastic discs proteinmarajoara
+Putative uncharacterized subgroup related toSaccharomyces cerevisiae CDC1 - signalP detected
+putative uniprotkb/trembl
+putative uniref50 a0a182ptf3 mutator family transposase n-1 tax-epiroticus taxid-199890
+putative uniref50 a0a182q0i1 e3 ubiquitin-protein ligase n-20 tax-taxid-44484
+putative uniref50 a0a182tgp1 transposase n-1 tax-melas
+putative uniref50 a0a453yjp0 adenylate cyclase n-3 tax-cellia
+putative uniref50 a0a6e8w578 reverse transcript
+Putative UniRef50_A0A023EWC9 Putative thioredoxin/protein disulfide isomerase(Fragment) n=9 Tax=Endopterygota TaxID=33392 RepID=A0A023EWC9_AEDAL
+Putative UniRef50_A0A084VQP5 Succinate dehydrogenase
+Putative UniRef50_A0A0E4C764 Insulin receptor substrate 1 n=51 Tax=NeopteraTaxID=33340 RepID=A0A0E4C764_ANOGA
+Putative UniRef50_A0A182HGV5 Small conductance calcium-activated potassiumchannel protein n=27 Tax=Anopheles TaxID=44484 RepID=A0A182HGV5_ANOAR
+Putative UniRef50_A0A182HKH4 Moesin/ezrin/radixin homolog 1 n=60 Tax=EndopterygotaTaxID=33392 RepID=A0A182HKH4_ANOAR
+Putative UniRef50_A0A182HN22 Mucin-5AC n=17 Tax=Anopheles TaxID=44484RepID=A0A182HN22_ANOAR
+Putative UniRef50_A0A182HP87 Nuclear apoptosis-inducing factor 1 n=5 Tax=gambiaespecies complex TaxID=44542 RepID=A0A182HP87_ANOAR
+Putative UniRef50_A0A182HQ49 Serine/threonine-protein kinase yakA n=18Tax=Cellia TaxID=44534 RepID=A0A182HQ49_ANOAR
+Putative UniRef50_A0A182HSH6 Microtubule-associated protein futsch n=9Tax=Pyretophorus TaxID=44537 RepID=A0A182HSH6_ANOAR
+Putative UniRef50_A0A182HT73 Microtubule-associated protein futsch n=6Tax=Cellia TaxID=44534 RepID=A0A182HT73_ANOAR
+Putative UniRef50_A0A182I1F4 Peptidase S1 domain-containing protein n=32Tax=Culicidae TaxID=7157 RepID=A0A182I1F4_ANOAR
+Putative UniRef50_A0A182I5X6 Integumentary mucin C.1-like n=7 Tax=gambiaespecies complex TaxID=44542 RepID=A0A182I5X6_ANOAR
+Putative UniRef50_A0A182IBF4 Glycine-rich cell wall structural protein1 n=17 Tax=Anopheles TaxID=44484 RepID=A0A182IBF4_ANOAR
+Putative UniRef50_A0A182J6J2 Non-specific serine/threonine protein kinasen=29 Tax=Anopheles TaxID=44484 RepID=A0A182J6J2_9DIPT
+Putative UniRef50_A0A182JGI2 Serine/threonine-protein kinase n=4 Tax=AnophelesTaxID=44484 RepID=A0A182JGI2_9DIPT
+Putative UniRef50_A0A182JUX1 Peptidase S1 domain-containing protein n=2Tax=Pyretophorus TaxID=44537 RepID=A0A182JUX1_9DIPT - signalP detected
+Putative UniRef50_A0A182JXJ4 Pre-rRNA-processing protein TSR2 homologn=39 Tax=Anopheles TaxID=44484 RepID=A0A182JXJ4_9DIPT
+Putative UniRef50_A0A182LRR7 Actin-binding protein anillin n=18 Tax=AnophelesTaxID=44484 RepID=A0A182LRR7_9DIPT
+Putative UniRef50_A0A182LTX9 Serine/threonine-protein phosphatase 2A regulatorysubunit B'' subunit alpha n=9 Tax=Anopheles TaxID=44484 RepID=A0A182LTX9_9DIPT
+Putative UniRef50_A0A182M4F7 Late endosomal/lysosomal adaptor and MAPKand MTOR activator 5 n=1 Tax=Anopheles culicifacies TaxID=139723 RepID=A0A182M4F7_9DIPT
+Putative UniRef50_A0A182M4P9 Taste receptor type 2 n=4 Tax=Culicidae TaxID=7157RepID=A0A182M4P9_9DIPT
+Putative UniRef50_A0A182M984 Calcium/calmodulin-dependent serine proteinkinase/membrane-associated guanylate kinase n=44 Tax=Neoptera TaxID=33340 RepID=A0A182M984_9DIPT
+Putative UniRef50_A0A182MBV8 ML domain-containing protein n=19 Tax=AnophelesTaxID=44484 RepID=A0A182MBV8_9DIPT - signalP detected
+Putative UniRef50_A0A182MSS6 Microphthalmia-associated transcription factora n=8 Tax=Cellia TaxID=44534 RepID=A0A182MSS6_9DIPT
+Putative UniRef50_A0A182N0Y9 28S ribosomal protein S24 mitochondrialn=65 Tax=Endopterygota TaxID=33392 RepID=A0A182N0Y9_9DIPT
+Putative UniRef50_A0A182NES9 RNA polymerase II subunit B1 CTD phosphataseRPAP2 homolog n=1 Tax=Anopheles dirus TaxID=7168 RepID=A0A182NES9_9DIPT
+Putative UniRef50_A0A182NQD5 Pre-mRNA 3'-end-processing factor FIP1 n=1Tax=Anopheles dirus TaxID=7168 RepID=A0A182NQD5_9DIPT
+Putative UniRef50_A0A182PHQ2 Epidermal growth factor-like protein 7 n=4Tax=Cellia TaxID=44534 RepID=A0A182PHQ2_9DIPT
+Putative UniRef50_A0A182PTZ0 Vitellogenin domain-containing protein n=2Tax=Anopheles TaxID=44484 RepID=A0A182PTZ0_9DIPT - signalP detected
+Putative UniRef50_A0A182PZU2 Protein kinase domain-containing proteinn=5 Tax=Culicidae TaxID=7157 RepID=A0A182PZU2_9DIPT
+Putative UniRef50_A0A182QL35 Protein kinase domain-containing proteinn=26 Tax=Anopheles TaxID=44484 RepID=A0A182QL35_9DIPT
+Putative UniRef50_A0A182QYD9 Transcription initiation factor TFIID subunit4 n=9 Tax=Cellia TaxID=44534 RepID=A0A182QYD9_9DIPT
+Putative UniRef50_A0A182R0V0 Mucin-5AC n=1 Tax=Anopheles farauti TaxID=69004RepID=A0A182R0V0_9DIPT
+Putative UniRef50_A0A182SWV7 Cell adhesion associated oncogene regulatedn=24 Tax=Culicidae TaxID=7157 RepID=A0A182SWV7_9DIPT
+Putative UniRef50_A0A182T468 Zn-finger transcription factor n=7 Tax=EndopterygotaTaxID=33392 RepID=A0A182T468_9DIPT
+Putative UniRef50_A0A182TA96 Sodium channel protein Nach n=36 Tax=CulicidaeTaxID=7157 RepID=A0A182TA96_9DIPT
+Putative UniRef50_A0A182TCA5 Maintenance of mitochondrial morphology protein1 n=2 Tax=Culicidae TaxID=7157 RepID=A0A182TCA5_9DIPT - signalP detected
+Putative UniRef50_A0A182TIB5 Voltage-dependent T-type calcium channelsubunit alpha-1G n=2 Tax=Culicidae TaxID=7157 RepID=A0A182TIB5_9DIPT
+Putative UniRef50_A0A182TL02 Serine/threonine-protein kinase tousled-like2 n=1 Tax=Anopheles melas TaxID=34690 RepID=A0A182TL02_9DIPT
+Putative UniRef50_A0A182TLQ4 Histone acetyltransferase n=3 Tax=CelliaTaxID=44534 RepID=A0A182TLQ4_9DIPT
+Putative UniRef50_A0A182TS31 Mucin-19 n=1 Tax=Anopheles melas TaxID=34690RepID=A0A182TS31_9DIPT
+Putative UniRef50_A0A182U7S6 Microtubule-associated protein bicaudal-dn=2 Tax=Cellia TaxID=44534 RepID=A0A182U7S6_9DIPT
+Putative UniRef50_A0A182UDR3 Thyroid hormone receptor-associated proteincomplex subunit n=1 Tax=Anopheles melas TaxID=34690 RepID=A0A182UDR3_9DIPT
+Putative UniRef50_A0A182VE22 Peptidase S1 domain-containing protein n=9Tax=Cellia TaxID=44534 RepID=A0A182VE22_ANOME - signalP detected
+Putative UniRef50_A0A182XCM6 Spectrin beta chain non-erythrocytic 1 n=44Tax=Anopheles TaxID=44484 RepID=A0A182XCM6_ANOQN
+Putative UniRef50_A0A182XER3 Translation initiation factor if-2 n=2 Tax=CelliaTaxID=44534 RepID=A0A182XER3_ANOQN - signalP detected
+Putative UniRef50_A0A182XHZ9 Dynein light chain n=5 Tax=gambiae speciescomplex TaxID=44542 RepID=A0A182XHZ9_ANOQN
+Putative UniRef50_A0A182XJ02 Transcriptional regulator n=9 Tax=PyretophorusTaxID=44537 RepID=A0A182XJ02_ANOQN
+Putative UniRef50_A0A182XPT5 Protein kinase domain-containing proteinn=8 Tax=gambiae species complex TaxID=44542 RepID=A0A182XPT5_ANOQN - signalP detected
+Putative UniRef50_A0A182XW03 Deubiquitinating enzyme A n=42 Tax=AnophelesTaxID=44484 RepID=A0A182XW03_ANOST
+Putative UniRef50_A0A182YE26 Vacuolar protein sorting-associated proteinTDA6 n=2 Tax=Cellia TaxID=44534 RepID=A0A182YE26_ANOST - signalP detected
+Putative UniRef50_A0A1S4H077 HECT-type E3 ubiquitin transferase n=18 Tax=AnophelesTaxID=44484 RepID=A0A1S4H077_ANOGA
+Putative UniRef50_A0A1S4H5V8 Secreted mucin n=12 Tax=Cellia TaxID=44534RepID=A0A1S4H5V8_ANOGA - signalP detected
+Putative UniRef50_A0A1S4H6W2 Cuticle protein n=5 Tax=Culicidae TaxID=7157RepID=A0A1S4H6W2_ANOGA - signalP detected
+Putative UniRef50_A0A1S4HA87 Dolichyl-diphosphooligosaccharide--proteinglycosyltransferase subunit KCP2 n=1 Tax=Anopheles gambiae TaxID=7165 RepID=A0A1S4HA87_ANOGA - signalP detected
+Putative UniRef50_A0A1S4HB50 Ecdysone receptor n=10 Tax=Anopheles TaxID=44484RepID=A0A1S4HB50_ANOGA
+Putative UniRef50_A0A1S4HDM7 Voltage-dependent L-type calcium channelsubunit alpha n=13 Tax=Anopheles TaxID=44484 RepID=A0A1S4HDM7_ANOGA
+Putative UniRef50_A0A1S4HDX5 Mucin-5AC-like n=17 Tax=Cellia TaxID=44534RepID=A0A1S4HDX5_ANOGA - signalP detected
+Putative UniRef50_A0A1Y9J0E8 Calponin homology domain-containing proteinDDB_G0272472-like n=2 Tax=Anopheles quadriannulatus TaxID=34691 RepID=A0A1Y9J0E8_ANOQN
+Putative UniRef50_A0A2C9GMD7 Pre-mRNA-splicing factor SYF2 n=15 Tax=CulicidaeTaxID=7157 RepID=A0A2C9GMD7_ANOAR
+Putative UniRef50_A0A2C9GPF7 Protein kinase domain-containing proteinn=9 Tax=Nematocera TaxID=7148 RepID=A0A2C9GPF7_ANOAR
+Putative UniRef50_A0A2C9GPW6 Thyroid hormone receptor-associated proteincomplex subunit n=21 Tax=Culicidae TaxID=7157 RepID=A0A2C9GPW6_ANOAR
+Putative UniRef50_A0A2C9H3R9 Peptidase S1 domain-containing protein n=6Tax=gambiae species complex TaxID=44542 RepID=A0A2C9H3R9_ANOGA
+Putative UniRef50_A0A2C9H3U7 Peptidase S1 domain-containing protein n=3Tax=gambiae species complex TaxID=44542 RepID=A0A2C9H3U7_ANOGA
+Putative UniRef50_A0A2C9H3V4 Transmembrane protease serine 9-like n=8Tax=gambiae species complex TaxID=44542 RepID=A0A2C9H3V4_ANOGA
+Putative UniRef50_A0A2M4ADU4 ATP synthase subunit 8 (Fragment) n=2 Tax=ArthropodaTaxID=6656 RepID=A0A2M4ADU4_9DIPT
+Putative UniRef50_A0A2M4AE50 Putative cell wall protein awa1 (Fragment)n=1 Tax=Anopheles triannulatus TaxID=58253 RepID=A0A2M4AE50_9DIPT
+Putative UniRef50_A0A2M4AJW8 Sulfatase domain-containing protein (Fragment)n=2 Tax=Culicidae TaxID=7157 RepID=A0A2M4AJW8_9DIPT
+Putative UniRef50_A0A336MWZ5 Serine/threonine-protein phosphatase n=104Tax=Hexapoda TaxID=6960 RepID=A0A336MWZ5_CULSO
+Putative UniRef50_A0A453YZB3 Chemokine vCXCL1 n=2 Tax=gambiae speciescomplex TaxID=44542 RepID=A0A453YZB3_ANOGA
+Putative UniRef50_A0A453YZW1 Serine/threonine-protein kinase dyrk1 n=18Tax=Cellia TaxID=44534 RepID=A0A453YZW1_ANOGA
+Putative UniRef50_A0A453Z0P2 Phosphatase and actin regulator 4 n=45 Tax=NeopteraTaxID=33340 RepID=A0A453Z0P2_ANOGA
+Putative UniRef50_A0A4Y0BHD4 Neuropeptide-like 1 n=16 Tax=Anopheles TaxID=44484RepID=A0A4Y0BHD4_ANOFN - signalP detected
+Putative UniRef50_A0A4Y0BIU5 Dolichyl-phosphate-mannose--protein mannosyltransferasen=15 Tax=Pancrustacea TaxID=197562 RepID=A0A4Y0BIU5_ANOFN
+Putative UniRef50_A0A4Y0BMZ7 Serine/threonine-protein kinase n=3 Tax=MyzomyiaTaxID=59140 RepID=A0A4Y0BMZ7_ANOFN
+Putative UniRef50_A0A4Y0BRA7 Mucin-5AC n=18 Tax=Anopheles TaxID=44484RepID=A0A4Y0BRA7_ANOFN
+Putative UniRef50_A0A6E8V2Q6 Glutathione peroxidase n=2 Tax=gambiae speciescomplex TaxID=44542 RepID=A0A6E8V2Q6_ANOCL
+Putative UniRef50_A0A6E8V3G8 Transcription elongation factor B polypeptide3 n=2 Tax=gambiae species complex TaxID=44542 RepID=A0A6E8V3G8_ANOCL
+Putative UniRef50_A0A6E8W2F4 Peptidase S74 domain-containing protein n=3Tax=gambiae species complex TaxID=44542 RepID=A0A6E8W2F4_ANOCL
+Putative UniRef50_A0A8D8KC22 Sodium channel protein 60E (Fragment) n=1Tax=Culex pipiens TaxID=7175 RepID=A0A8D8KC22_CULPI
+Putative UniRef50_A1Z7S0 Receptor mediated endocytosis 8 isoform A n=791Tax=Bilateria TaxID=33213 RepID=A1Z7S0_DROME
+Putative UniRef50_A7UU86 Oxoglutarate dehydrogenase (succinyl-transferring)n=1073 Tax=cellular organisms TaxID=131567 RepID=A7UU86_ANOGA
+Putative UniRef50_B0W7E4 Pyr_redox_2 domain-containing protein n=46 Tax=DipteraTaxID=7147 RepID=B0W7E4_CULQU
+Putative UniRef50_B0WTM5 Thioredoxin domain-containing protein n=31 Tax=CulicomorphaTaxID=43786 RepID=B0WTM5_CULQU
+Putative UniRef50_F5HIY3 Sodium/potassium-transporting ATPase subunitbeta-1-interacting protein n=26 Tax=Culicidae TaxID=7157 RepID=F5HIY3_ANOGA
+Putative UniRef50_Q9W543 Rabconnectin-3B isoform A n=1032 Tax=ArthropodaTaxID=6656 RepID=Q9W543_DROME
+Putative UniRef50_U5EM24 Putative eukaryotic translation initiation factor4 gamma (Fragment) n=1 Tax=Corethrella appendiculata TaxID=1370023 RepID=U5EM24_9DIPT
+Putative UniRef50_UPI001BE40996 nuclear transcription factor Y subunitbeta-like n=1 Tax=Anopheles merus TaxID=30066 RepID=UPI001BE40996
+Putative UniRef50_UPI0020FF81C1 myosin-2 isoform X2 n=8 Tax=gambiae speciescomplex TaxID=44542 RepID=UPI0020FF81C1
+Putative UniRef50_W5JBX6 DNA polymerase III subunit gamma/tau n=1 Tax=Anophelesdarlingi TaxID=43151 RepID=W5JBX6_ANODA
+Putative uridine phosphorylases similar to a humanUPP1 and UPP2
+Putative Vacuolar import and degradation protein
+Putative Vacuolar membrane-associated protein Iml1
+Putative Vav pleckstrin homology
+Putative VHS
+Putative WASP family protein EVH1 domain
+Putative Wings apart-like protein regulation of heterochromatin
+Putative Wnt domain found in protein Wnt-5a - signalP detected
+Putative Wnt domain found in protein Wnt-6 and similarprotein - signalP detected
+Putative Wnt-binding factor required for Wntsecretion
+putative xenotropic and polytropic retrovirus receptor1 isoform x2 stephensi
+Putative XP_001863479.2 galectin-6
+Putative XP_019553874.2 potassium voltage-gated channel subfamily H member6 isoform X9
+Putative XP_029722004.1 Down syndrome cell adhesion molecule-like proteinDscam2
+Putative XP_029734964.1 ankyrin repeat domain-containing protein 11-likeisoform X1
+Putative XP_029735994.1 LOW QUALITY PROTEIN: DNA N6-methyl adenine demethylase-lik
+Putative XP_031638271.1 polyubiquitin-B isoform X2
+Putative XP_034105842.1 polyubiquitin-C isoform X1
+Putative XP_035772882.1 cell growth regulator with RING finger domainprotein 1-like - signalP detected
+Putative XP_035773864.1 acetylcholine receptor subunit alpha-like 2
+Putative XP_035774069.1 ketohexokinase-like
+Putative XP_035777898.1 mediator of RNA polymerase II transcription subunit31-like isoform X2
+Putative XP_035778148.1 calcium-activated potassium channel slowpoke isoformX4
+Putative XP_035781466.1 CREB-regulated transcription coactivator 3-likeisoform X4
+Putative XP_035782978.1 atrial natriuretic peptide receptor 2-like isoformX2
+Putative XP_035788152.1 Down syndrome cell adhesion molecule-like proteinDscam2 isoform X11
+Putative XP_035790235.1 potassium voltage-gated channel subfamily KQTmember 5-like isoform X12
+Putative XP_035890447.1 serine/threonine-protein kinase ste20 isoformX2
+Putative XP_035890502.1 CLIP domain-containing serine protease 14D-lik
+Putative XP_035890575.1 SKI family transcriptional corepressor 1-likepartial
+Putative XP_035890638.1 DNA polymerase zeta catalytic subunit isoformX1
+Putative XP_035890661.1 proline dehydrogenase 1 mitochondrial isoformX1
+Putative XP_035890710.1 transcription initiation factor TFIID subunit1 isoform X2
+Putative XP_035890720.1 equilibrative nucleoside transporter 1 isoformX1
+Putative XP_035890773.1 apoptosis-inducing factor 3 isoform X2
+Putative XP_035890822.1 ubiquitin carboxyl-terminal hydrolase 20 isoformX1
+Putative XP_035890857.1 neutral ceramidase - signalP detected
+Putative XP_035890972.1 DNA repair protein RAD51 homolog 3-like isoformX1
+Putative XP_035891090.1 phosphofurin acidic cluster sorting protein 2isoform X2
+Putative XP_035891219.1 mitochondrial proton/calcium exchanger proteinisoform X1
+Putative XP_035891234.1 mucin-5AC
+Putative XP_035891245.1 histone-lysine N-methyltransferase H3 lysine-79specific-like isoform X1
+Putative XP_035891376.1 progestin and adipoQ receptor family member 3isoform X2
+Putative XP_035891403.1 nascent polypeptide-associated complex subunitalpha muscle-specific form isoform X1
+Putative XP_035891430.1 ecotropic viral integration site 5 ortholog isoformX4
+Putative XP_035891454.1 serine/threonine-protein phosphatase 2A 56 kDaregulatory subunit epsilon isoform
+Putative XP_035891473.1 serine protease snake-like - signalP detected
+Putative XP_035891487.1 serine protease snake-like
+Putative XP_035891580.1 proton-coupled amino acid transporter-like proteinCG1139
+Putative XP_035891639.1 synaptic vesicle glycoprotein 2B-like - signalP detected
+Putative XP_035891664.1 collagen alpha chain CG42342 isoform X3
+Putative XP_035891672.1 calcium uptake protein 2 mitochondrial isoformX1
+Putative XP_035891716.1 polyhomeotic-proximal chromatin protein-like
+Putative XP_035891729.1 dynactin subunit 1 isoform X5
+Putative XP_035891731.1 endoplasmic reticulum chaperone BiP - signalP detected
+Putative XP_035891736.1 putative sodium-dependent multivitamin transporte - signalP detected
+Putative XP_035891788.1 interferon-related developmental regulator 2
+Putative XP_035891790.1 muscle LIM protein Mlp84B isoform X2
+Putative XP_035891810.1 sodium-independent sulfate anion transporter-likeisoform X1
+Putative XP_035891900.1 protein kinase C brain isozyme-like isoform X
+Putative XP_035891928.1 facilitated trehalose transporter Tret1 isoformX2
+Putative XP_035891939.1 putative inorganic phosphate cotransporter isoformX1
+Putative XP_035891947.1 carbohydrate sulfotransferase 11 - signalP detected
+Putative XP_035891955.1 polypeptide N-acetylgalactosaminyltransferase16-like
+Putative XP_035892148.1 sphingomyelin phosphodiesterase isoform X2 - signalP detected
+Putative XP_035892271.1 protein phosphatase PP2A 55 kDa regulatory subunitisoform X1
+Putative XP_035892306.1 pre-mRNA-splicing factor RBM22
+Putative XP_035892333.1 sulfate transporter isoform X1
+Putative XP_035892457.1 unconventional myosin-Ib
+Putative XP_035892464.1 CCR4-NOT transcription complex subunit 6-likeisoform X1
+Putative XP_035892524.1 plasma membrane calcium-transporting ATPase 2isoform X2
+Putative XP_035892544.1 reversion-inducing cysteine-rich protein withKazal motifs - signalP detected
+Putative XP_035892651.1 5'-3' exonuclease PLD3-like
+Putative XP_035892654.1 probable G-protein coupled receptor Mth-like 1 - signalP detected
+Putative XP_035892801.1 probable phospholipid-transporting ATPase IA isoformX14
+Putative XP_035892828.1 solute carrier family 12 member 4 isoform X5
+Putative XP_035892910.1 serine/threonine-protein kinase par-1 isoformX2
+Putative XP_035892994.1 chitobiosyldiphosphodolichol beta-mannosyltransferas
+Putative XP_035893008.1 serine proteinase stubble-like - signalP detected
+Putative XP_035893036.1 tubulin-specific chaperone cofactor E-like protei
+Putative XP_035893045.1 unconventional myosin-XVIIIa isoform X2
+Putative XP_035893128.1 transcription factor GAGA-like
+Putative XP_035893143.1 venom dipeptidyl peptidase 4 isoform X2
+Putative XP_035893169.1 interferon regulatory factor 2-binding protein2-like
+Putative XP_035893349.1 mucin-19
+Putative XP_035893424.1 BAG family molecular chaperone regulator 2 isoformX1
+Putative XP_035893435.1 ubiquitin carboxyl-terminal hydrolase 9
+Putative XP_035893482.1 atypical protein kinase C isoform X7
+Putative XP_035893526.1 Na(+)/H(+) exchange regulatory cofactor NHE-RF
+Putative XP_035893537.1 sorting nexin-8-like
+Putative XP_035893575.1 G protein-coupled receptor kinase 1 isoform X
+Putative XP_035893603.1 putative transcription factor SOX-15
+Putative XP_035893633.1 MAP/microtubule affinity-regulating kinase 3 isoformX13
+Putative XP_035893671.1 melanization protease 1-like isoform X1 - signalP detected
+Putative XP_035893704.1 probable citrate synthase 2 mitochondrial
+Putative XP_035893716.1 glutamate--cysteine ligase regulatory subuni
+Putative XP_035893745.1 serine/threonine-protein kinase Genghis Khan isoformX4
+Putative XP_035893754.1 insulin-like growth factor 2 mRNA-binding protein1 isoform X3
+Putative XP_035893826.1 mitochondrial 2-oxoglutarate/malate carrier protein-lik
+Putative XP_035893993.1 diacylglycerol lipase-beta-like
+Putative XP_035894028.1 sodium-dependent nutrient amino acid transporter1-like isoform X2
+Putative XP_035894042.1 sodium-dependent nutrient amino acid transporter1-like
+Putative XP_035894054.1 Y+L amino acid transporter 2
+Putative XP_035894064.1 lysophosphatidylserine lipase ABHD12 isoform X
+Putative XP_035894108.1 insulin-like growth factor-binding protein complexacid labile subunit - signalP detected
+Putative XP_035894156.1 arrestin red cell isoform X3
+Putative XP_035894253.1 actin cytoskeleton-regulatory complex proteinPAN1-like isoform X1 - signalP detected
+Putative XP_035894307.1 vesicular glutamate transporter 3 isoform X2
+Putative XP_035894337.1 transcription factor MafK isoform X1
+Putative XP_035894435.1 serine/threonine-protein kinase minibrain
+Putative XP_035894521.1 monocarboxylate transporter 14 isoform X3
+Putative XP_035894644.1 cell division cycle 7-related protein kinase
+Putative XP_035894697.1 sodium/potassium-transporting ATPase subunit alphaisoform X1
+Putative XP_035894782.1 octopamine receptor beta-2R
+Putative XP_035894798.1 chloride channel protein 2 isoform X5
+Putative XP_035894830.1 lipid storage droplets surface-binding protein1 isoform X6
+Putative XP_035894905.1 mucin-5AC-like isoform X2
+Putative XP_035894906.1 myosin-7
+Putative XP_035894912.1 transcription initiation factor IIA subunit
+Putative XP_035894986.1 myosin light chain kinase smooth muscle-lik
+Putative XP_035895106.1 low-density lipoprotein receptor isoform X5 - signalP detected
+Putative XP_035895125.1 transient receptor potential cation channel proteinpainless
+Putative XP_035895373.1 cell division cycle and apoptosis regulator protein1-like
+Putative XP_035895403.1 serine/threonine-protein kinase stk11
+Putative XP_035895423.1 sodium-independent sulfate anion transporter
+Putative XP_035895531.1 forkhead box protein K2-like
+Putative XP_035895537.1 ubiquitin-like modifier-activating enzyme 1
+Putative XP_035895560.1 polyadenylate-binding protein-interacting protein1
+Putative XP_035895598.1 transcription factor kayak isoform X1
+Putative XP_035895609.1 arginyl-tRNA--protein transferase 1 isoform X
+Putative XP_035895648.1 mucin-19
+Putative XP_035895653.1 dual specificity protein phosphatase Mpk3
+Putative XP_035895694.1 glutamate receptor ionotropic kainate 2-likeisoform X1
+Putative XP_035895725.1 vacuolar protein sorting-associated protein 13
+Putative XP_035895753.1 mitogen-activated protein kinase kinase kinasekinase 5 isoform X2
+Putative XP_035895794.1 ubiquitin thioesterase trabid
+Putative XP_035895904.1 tubulin polyglutamylase TTLL13-like isoform X
+Putative XP_035895915.1 zinc transporter ZIP3
+Putative XP_035895957.1 phospholipid-transporting ATPase ID isoform X
+Putative XP_035895967.1 phosphorylase b kinase gamma catalytic chainskeletal muscle/heart isoform isoform X5
+Putative XP_035896001.1 CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferasemitochondrial isoform X1
+Putative XP_035896008.1 cation-independent mannose-6-phosphate recepto - signalP detected
+Putative XP_035896027.1 lysine-specific demethylase 3A
+Putative XP_035896137.1 histone-lysine N-methyltransferase trithorax isoformX1
+Putative XP_035896191.1 putative fatty acyl-CoA reductase CG5065
+Putative XP_035896200.1 protein kinase C isoform X3
+Putative XP_035896320.1 acyl-CoA Delta(11) desaturase
+Putative XP_035896418.1 mucin-5AC-like isoform X2
+Putative XP_035896446.1 furin-like protease 1
+Putative XP_035896561.1 3-phosphoinositide-dependent protein kinase
+Putative XP_035896565.1 large neutral amino acids transporter small subunit1 isoform X2
+Putative XP_035896728.1 matrix metalloproteinase-2 isoform X1 - signalP detected
+Putative XP_035896796.1 ubiquitin carboxyl-terminal hydrolase 32 isoformX4
+Putative XP_035896800.1 ubiquinone biosynthesis monooxygenase COQ6 mitochondria
+Putative XP_035896820.1 tumor necrosis factor alpha-induced protein 8-likeprotein isoform X4
+Putative XP_035896830.1 ATP-dependent Clp protease ATP-binding subunitclpX-like mitochondrial
+Putative XP_035896998.1 eukaryotic translation initiation factor 5A
+Putative XP_035897034.1 transcriptional adapter 2B isoform X4
+Putative XP_035897043.1 serine/threonine-protein phosphatase PP1-betacatalytic subunit isoform X2
+Putative XP_035897054.1 replication factor C subunit 4
+Putative XP_035897095.1 endoplasmic reticulum metallopeptidase 1-lik
+Putative XP_035897097.1 glutamyl aminopeptidase isoform X1
+Putative XP_035897168.1 transcription factor E2f1
+Putative XP_035897172.1 organic solute transporter alpha-like protei
+Putative XP_035897207.1 RNA-binding protein Musashi homolog 2 isoformX3
+Putative XP_035897354.1 probable alpha-aspartyl dipeptidase
+Putative XP_035897462.1 forkhead box protein O
+Putative XP_035897609.1 glutamate--cysteine ligase
+Putative XP_035897626.1 protein phosphatase 1 regulatory subunit 3B isoformX1
+Putative XP_035897645.1 histone-lysine N-methyltransferase ash1 isoformX1
+Putative XP_035897739.1 non-canonical poly(A) RNA polymerase protein Trf4-1-lik
+Putative XP_035897758.1 sorting nexin-13-like isoform X1
+Putative XP_035897817.1 serine protease inhibitor 77Ba isoform X2
+Putative XP_035897930.1 ryanodine receptor isoform X10
+Putative XP_035897968.1 oxysterol-binding protein-related protein 8 isoformX8
+Putative XP_035898001.1 mucin-17 isoform X2 - signalP detected
+Putative XP_035898070.1 carboxypeptidase Q-like - signalP detected
+Putative XP_035898176.1 hyphally regulated cell wall protein 3-like isoformX2
+Putative XP_035898431.1 copper-transporting ATPase 1 isoform X4
+Putative XP_035898519.1 organic cation transporter protein
+Putative XP_035898606.1 serine/threonine-protein kinase 10-like isoformX4
+Putative XP_035898775.1 serine/threonine-protein kinase MARK2 isoformX2
+Putative XP_035898859.1 myosin-IIIb-like isoform X2
+Putative XP_035898891.1 sodium-dependent neutral amino acid transporterB(0)AT3 isoform X2
+Putative XP_035899049.1 beta carbonic anhydrase 1
+Putative XP_035899083.1 histone-lysine N-methyltransferase SETD1B-lik
+Putative XP_035899142.1 N-acetylgalactosaminyltransferase 4-like
+Putative XP_035899170.1 glycerol-3-phosphate dehydrogenase mitochondrialisoform X2
+Putative XP_035899197.1 protein kinase shaggy isoform X2
+Putative XP_035899230.1 galectin-9 isoform X5
+Putative XP_035899279.1 5-hydroxytryptamine receptor 1-like
+Putative XP_035899283.1 nuclear hormone receptor HR96
+Putative XP_035899292.1 neural cell adhesion molecule 1-like
+Putative XP_035899329.1 tyrosine-protein phosphatase 10D isoform X4
+Putative XP_035899338.1 probable phospholipid hydroperoxide glutathioneperoxidase isoform X2
+Putative XP_035899341.1 glutathione peroxidase-like
+Putative XP_035899384.1 cardioacceleratory peptide receptor-like
+Putative XP_035899385.1 cardioacceleratory peptide receptor-like isoformX1
+Putative XP_035899444.1 heparan-sulfate 6-O-sulfotransferase 2
+Putative XP_035899658.1 galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferaseP
+Putative XP_035899684.1 glutamate receptor-interacting protein 2
+Putative XP_035899752.1 mucin-19 isoform X4
+Putative XP_035899757.1 ubiquitin-conjugating enzyme E2 Q2 isoform X
+Putative XP_035899872.1 zinc finger RNA-binding protein 2
+Putative XP_035899926.1 mucin-19 isoform X1
+Putative XP_035899966.1 b(0+)-type amino acid transporter 1 isoform X
+Putative XP_035900029.1 probable protein phosphatase 2C T23F11.1
+Putative XP_035900051.1 GTPase-activating protein isoform X2
+Putative XP_035900057.1 3'-5' ssDNA/RNA exonuclease TatD
+Putative XP_035900084.1 calcium/calmodulin-dependent protein kinase kinase1 isoform X3
+Putative XP_035900150.1 open rectifier potassium channel protein 1
+Putative XP_035900156.1 F-actin-monooxygenase Mical isoform X2
+Putative XP_035900254.1 glycine-rich cell wall structural protein 1.8-lik
+Putative XP_035900342.1 endoplasmic reticulum metallopeptidase 1-likeisoform X1
+Putative XP_035900407.1 ribosome-binding protein 1 isoform X1 - signalP detected
+Putative XP_035900416.1 ribosomal protein S6 kinase 2 beta-like isoformX2
+Putative XP_035900426.1 organic cation transporter protein isoform X
+Putative XP_035900472.1 facilitated trehalose transporter Tret1-like
+Putative XP_035900502.1 autophagy-related protein 101 isoform X3
+Putative XP_035900547.1 regulator of G-protein signaling loco isoformX3
+Putative XP_035900766.1 mucin-19
+Putative XP_035900777.1 unconventional myosin-IXa-like isoform X2
+Putative XP_035900918.1 serine/threonine-protein kinase Warts
+Putative XP_035901026.1 G protein-activated inward rectifier potassiumchannel 3 isoform X1
+Putative XP_035901042.1 serine/threonine-protein phosphatase 2B catalyticsubunit 3-like
+Putative XP_035901049.1 G protein-activated inward rectifier potassiumchannel 3-like isoform X1
+Putative XP_035901056.1 ribonuclease P protein subunit p40-like
+Putative XP_035901182.1 copper transporter 5.1-like isoform X1
+Putative XP_035901278.1 oxysterol-binding protein 1 isoform X1
+Putative XP_035901299.1 spectrin beta chain isoform X6
+Putative XP_035901360.1 sortilin-related receptor-like - signalP detected
+Putative XP_035901450.1 serine protease 53-like - signalP detected
+Putative XP_035901458.1 glutactin-like isoform X1 - signalP detected
+Putative XP_035901572.1 transcription factor Ouib-like
+Putative XP_035901796.1 thyrotropin receptor isoform X1
+Putative XP_035901884.1 rho GTPase-activating protein 190 isoform X5
+Putative XP_035902068.1 basement membrane-specific heparan sulfate proteoglycancore protein isoform X11 - signalP detected
+Putative XP_035902098.1 tyrosine-protein kinase Fer isoform X7
+Putative XP_035902148.1 calmodulin
+Putative XP_035902216.1 hyphally regulated cell wall protein 3 isoformX26
+Putative XP_035902288.1 nuclear receptor coactivator 7 isoform X22
+Putative XP_035902326.1 secretory carrier-associated membrane protein5A isoform X2
+Putative XP_035902342.1 furin-like protease 2 isoform X2
+Putative XP_035902395.1 RNA-binding protein Nova-1 isoform X3
+Putative XP_035902524.1 tropomyosin-2 isoform X15
+Putative XP_035902583.1 serine/threonine-protein kinase fused isoformX1
+Putative XP_035902677.1 synaptic vesicle glycoprotein 2B isoform X1
+Putative XP_035902717.1 mitochondrial import inner membrane translocasesubunit Tim17-A-like
+Putative XP_035902755.1 sodium-independent sulfate anion transporter-likeisoform X1
+Putative XP_035902757.1 sodium-independent sulfate anion transporter-lik
+Putative XP_035902833.1 Y+L amino acid transporter 2
+Putative XP_035902863.1 mediator of RNA polymerase II transcription subunit1 isoform X4
+Putative XP_035902867.1 signal recognition particle 54 kDa protein
+Putative XP_035903049.1 mitochondrial amidoxime reducing component 2-likeisoform X2
+Putative XP_035903081.1 glutamate dehydrogenase mitochondrial isoformX5
+Putative XP_035903122.1 sodium- and chloride-dependent glycine transporter2-like
+Putative XP_035903234.1 vesicle-associated membrane protein 7
+Putative XP_035903271.1 facilitated trehalose transporter Tret1
+Putative XP_035903280.1 facilitated trehalose transporter Tret1
+Putative XP_035903346.1 insulin-like receptor isoform X1
+Putative XP_035903356.1 ras-related protein Rab-10-like
+Putative XP_035903576.1 seminal metalloprotease 1-like - signalP detected
+Putative XP_035903591.1 probable cation-transporting ATPase 13A5 isoformX1
+Putative XP_035903678.1 hexokinase type 2 isoform X4
+Putative XP_035903723.1 histone-lysine N-methyltransferase 2D-like isoformX12
+Putative XP_035903946.1 tyrosine-protein phosphatase corkscrew isoformX3
+Putative XP_035904096.1 facilitated trehalose transporter Tret1-like
+Putative XP_035904101.1 phosphatidylserine decarboxylase proenzyme mitochondrialisoform X1
+Putative XP_035904145.1 inactive dipeptidyl peptidase 10 isoform X1
+Putative XP_035904200.1 ankyrin repeat domain-containing protein 27-lik
+Putative XP_035904257.1 serine protease inhibitor 88Ea-like - signalP detected
+Putative XP_035904281.1 nuclear pore complex protein DDB_G0274915 isoformX2
+Putative XP_035904313.1 facilitated trehalose transporter Tret1-like
+Putative XP_035904392.1 tyrosine--tRNA ligase mitochondrial isoform X
+Putative XP_035904434.1 aryl hydrocarbon receptor nuclear translocatorhomolog isoform X4
+Putative XP_035904559.1 ras-related protein Rab-32 isoform X5
+Putative XP_035904588.1 mitochondrial folate transporter/carrier isoformX1
+Putative XP_035904618.1 facilitated trehalose transporter Tret1-2 homolo
+Putative XP_035904858.1 ras-related and estrogen-regulated growth inhibitor-likeprotein
+Putative XP_035904878.1 calcium/calmodulin-dependent protein kinase typeII alpha chain
+Putative XP_035904907.1 maltase 2-like - signalP detected
+Putative XP_035904970.1 ionotropic receptor 75a
+Putative XP_035905007.1 ankyrin-3 isoform X12
+Putative XP_035905132.1 m-AAA protease-interacting protein 1 mitochondria
+Putative XP_035905224.1 ovarian-specific serine/threonine-protein kinaseLok-like
+Putative XP_035905235.1 monocarboxylate transporter 12-like isoform X
+Putative XP_035905279.1 tyrosine-protein kinase Btk29A isoform X1
+Putative XP_035905401.1 calcium uptake protein 1 homolog mitochondrial-likeisoform X3
+Putative XP_035905413.1 carbohydrate sulfotransferase 11-like
+Putative XP_035905435.1 serine/threonine-protein kinase tousled-like 1isoform X1
+Putative XP_035905525.1 octopamine receptor Oamb isoform X1
+Putative XP_035905556.1 sodium- and chloride-dependent GABA transporterine isoform X1
+Putative XP_035905600.1 myosin-VIIa
+Putative XP_035905722.1 vascular endothelial growth factor receptor 1-likeisoform X9 - signalP detected
+Putative XP_035905807.1 splicing factor 1
+Putative XP_035905971.1 UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase110 kDa subunit isoform X1
+Putative XP_035906019.1 tyrosine-protein kinase Src42A isoform X2
+Putative XP_035906052.1 bifunctional heparan sulfate N-deacetylase/N-sulfotransferas
+Putative XP_035906055.1 calcium uniporter protein mitochondrial isoformX1
+Putative XP_035906082.1 serine/threonine-protein kinase mig-15 isoformX10
+Putative XP_035906122.1 putative glutamate synthase - signalP detected
+Putative XP_035906230.1 glucose-6-phosphate exchanger SLC37A2-like isoformX1
+Putative XP_035906295.1 cAMP-dependent protein kinase type I regulatorysubunit isoform X2
+Putative XP_035906331.1 putative mediator of RNA polymerase II transcriptionsubunit 26 isoform X1
+Putative XP_035906342.1 vacuolar protein sorting-associated protein 13isoform X6
+Putative XP_035906351.1 inositol 145-trisphosphate receptor isoformX2
+Putative XP_035906403.1 mucin-17 isoform X3
+Putative XP_035906434.1 mucin-2-like isoform X1 - signalP detected
+Putative XP_035906459.1 palmitoyltransferase app isoform X2
+Putative XP_035906611.1 ankyrin repeat domain-containing protein SOWAHBisoform X2
+Putative XP_035906698.1 serine/threonine-protein kinase D3
+Putative XP_035906709.1 calcium release-activated calcium channel protein1 isoform X3
+Putative XP_035906748.1 D-aspartate oxidase
+Putative XP_035906837.1 serine/threonine-protein phosphatase 4 regulatorysubunit 1-like isoform X2
+Putative XP_035906850.1 myosin light chain kinase 2 skeletal/cardiacmuscle-like isoform X1
+Putative XP_035906853.1 RING finger protein nenya-like isoform X2
+Putative XP_035906872.1 collagen alpha-1(XVIII) chain isoform X8 - signalP detected
+Putative XP_035906919.1 tyrosine-protein kinase Src64B
+Putative XP_035907003.1 PX domain-containing protein kinase-like proteinisoform X3
+Putative XP_035907076.1 transcription factor Ken 1-like isoform X4
+Putative XP_035907110.1 transient receptor potential cation channel trpmisoform X10
+Putative XP_035907139.1 actin-binding LIM protein 3 isoform X2
+Putative XP_035907175.1 palmitoyltransferase ZDHHC23
+Putative XP_035907205.1 glucose transporter type 1 isoform X18
+Putative XP_035907230.1 calcitonin gene-related peptide type 1 receptorisoform X3
+Putative XP_035907382.1 BRCA2-interacting transcriptional repressor EMS
+Putative XP_035907484.1 dynein intermediate chain 2 ciliary isoform X
+Putative XP_035907585.1 signal transducer and transcription activatorisoform X4
+Putative XP_035907616.1 mitochondrial coenzyme A transporter SLC25A4
+Putative XP_035907627.1 probable serine/threonine-protein kinase tsuAisoform X2
+Putative XP_035907636.1 solute carrier family 25 member 35-like
+Putative XP_035907797.1 sodium-dependent neutral amino acid transporterB(0)AT3
+Putative XP_035907815.1 vacuolar protein sorting-associated protein 26
+Putative XP_035907816.1 F-actin-capping protein subunit alpha
+Putative XP_035907887.1 potassium voltage-gated channel protein Shab isoformX1 - signalP detected
+Putative XP_035907970.1 zinc transporter 1 isoform X2 - signalP detected
+Putative XP_035907993.1 cell wall protein DAN4-like - signalP detected
+Putative XP_035908075.1 serine/threonine-protein kinase Smg1 isoform X
+Putative XP_035908116.1 rho-associated protein kinase 1 isoform X1
+Putative XP_035908127.1 solute carrier family 35 member F5 - signalP detected
+Putative XP_035908151.1 histone deacetylase 4 isoform X1
+Putative XP_035908302.1 divergent protein kinase domain 1B-like isoformX2
+Putative XP_035908319.1 transcriptional coactivator YAP1-A-like isoformX1
+Putative XP_035908390.1 ribosomal protein S6 kinase beta-2
+Putative XP_035908406.1 sphingomyelin phosphodiesterase 4 isoform X1
+Putative XP_035908447.1 probable phospholipid-transporting ATPase VA isoformX2
+Putative XP_035908457.1 troponin C
+Putative XP_035908468.1 mitochondrial uncoupling protein 4 isoform X
+Putative XP_035908508.1 sodium/potassium-transporting ATPase subunit beta- - Membrane anchor detected
+Putative XP_035908523.1 thioredoxin-2
+Putative XP_035908560.1 beta-13-galactosyltransferase 5-like - signalP detected
+Putative XP_035908561.1 glycosyltransferase-like domain-containing protein1-like
+Putative XP_035908687.1 nicotinamide/nicotinic acid mononucleotide adenylyltransferase3 isoform X2
+Putative XP_035908696.1 RNA-binding protein squid-like isoform X2
+Putative XP_035908719.1 rap1 GTPase-activating protein 1 isoform X3
+Putative XP_035908772.1 transcription factor p65 isoform X1
+Putative XP_035908805.1 cytosolic purine 5'-nucleotidase isoform X1
+Putative XP_035908818.1 mitochondrial import receptor subunit TOM70
+Putative XP_035908837.1 tRNA-splicing endonuclease subunit Sen2
+Putative XP_035908842.1 programmed cell death protein 4
+Putative XP_035908882.1 stress-activated protein kinase JNK isoform X
+Putative XP_035908992.1 LOW QUALITY PROTEIN: nuclear hormone receptorFTZ-F1 beta
+Putative XP_035909071.1 mitochondrial carrier protein Rim2
+Putative XP_035909074.1 bone morphogenetic protein receptor type-1B isoformX1 - signalP detected
+Putative XP_035909215.1 probable phospholipid-transporting ATPase IF isoformX2
+Putative XP_035909216.1 folylpolyglutamate synthase mitochondrial isoformX1
+Putative XP_035909218.1 bifunctional methylenetetrahydrofolate dehydrogenase/cyclohydrolasemitochondrial isoform X1
+Putative XP_035909263.1 ubiquitin-like modifier-activating enzyme atg
+Putative XP_035909290.1 TNF receptor-associated factor family proteinDDB_G0272098-like
+Putative XP_035909296.1 muscle calcium channel subunit alpha-1-like isoformX4
+Putative XP_035909315.1 mitochondrial glutamate carrier 1-like
+Putative XP_035909464.1 GTPase-activating protein skywalker isoform X
+Putative XP_035909494.1 ER lumen protein-retaining receptor-like - signalP detected
+Putative XP_035909527.1 LOW QUALITY PROTEIN: protein disulfide-isomeraseA5 - signalP detected
+Putative XP_035909657.1 mast/stem cell growth factor receptor Kit isoformX1 - signalP detected
+Putative XP_035909670.1 carnitine O-palmitoyltransferase 1 liver isoformisoform X1
+Putative XP_035909677.1 GMP synthase
+Putative XP_035909680.1 diacylglycerol lipase-alpha isoform X2
+Putative XP_035909723.1 acetylcholine receptor subunit beta-type lev-1-likeisoform X2
+Putative XP_035909799.1 nuclear factor of activated T-cells 5-like isoformX1
+Putative XP_035909824.1 probable ubiquitin carboxyl-terminal hydrolaseFAF
+Putative XP_035909827.1 phosphatidylinositol-binding clathrin assemblyprotein LAP isoform X1
+Putative XP_035909902.1 pre-mRNA-splicing factor 38B
+Putative XP_035910046.1 contactin-associated protein-like 2 isoform X - signalP detected
+Putative XP_035910238.1 LOW QUALITY PROTEIN: RING finger protein nhl-1-lik
+Putative XP_035910360.1 RING finger protein nhl-1-like
+Putative XP_035910405.1 probable beta-hexosaminidase fdl isoform X1
+Putative XP_035910453.1 histone deacetylase 6 isoform X2
+Putative XP_035910514.1 alpha-tubulin N-acetyltransferase
+Putative XP_035910560.1 calcium-binding mitochondrial carrier proteinSCaMC-2 isoform X5
+Putative XP_035910701.1 ras GTPase-activating protein raskol isoform X
+Putative XP_035910832.1 eukaryotic translation initiation factor 4B-likeisoform X3
+Putative XP_035910852.1 zinc finger-containing ubiquitin peptidase 1-likeisoform X2
+Putative XP_035910880.1 S-adenosylmethionine decarboxylase proenzyme isoformX2
+Putative XP_035910912.1 histone demethylase UTY isoform X1
+Putative XP_035910932.1 nicotinate phosphoribosyltransferase isoform X
+Putative XP_035910982.1 serine/threonine-protein phosphatase 1 regulatorysubunit 10
+Putative XP_035910988.1 disintegrin and metalloproteinase domain-containingprotein 10 isoform X1
+Putative XP_035911092.1 discoidin domain-containing receptor tyrosinekinase B isoform X2 - signalP detected
+Putative XP_035911386.1 sodium-dependent nutrient amino acid transporter1 isoform X1
+Putative XP_035911411.1 putative lipoyltransferase 2 mitochondrial
+Putative XP_035911466.1 rho GTPase-activating protein 7
+Putative XP_035911598.1 calcium/calmodulin-dependent protein kinase type1
+Putative XP_035911645.1 serine protease inhibitor 42Dd-like isoform X
+Putative XP_035911702.1 hormone receptor 4-like isoform X1
+Putative XP_035911708.1 rab GTPase-activating protein 1-like isoform X
+Putative XP_035911771.1 potassium channel subfamily T member 2 isoformX4
+Putative XP_035911791.1 serine/threonine-protein kinase N isoform X4
+Putative XP_035911831.1 mucin-2 isoform X13
+Putative XP_035911895.1 lysophospholipid acyltransferase 1 isoform X
+Putative XP_035911927.1 solute carrier family 41 member 1 isoform X3
+Putative XP_035911943.1 LOW QUALITY PROTEIN: proton-coupled amino acidtransporter-like protein pathetic
+Putative XP_035912015.1 titin isoform X19
+Putative XP_035912201.1 SPARC-related modular calcium-binding protein2 isoform X1 - signalP detected
+Putative XP_035912267.1 F-actin-uncapping protein LRRC16A isoform X2
+Putative XP_035912316.1 paramyosin long form
+Putative XP_035912383.1 microtubule-associated protein RP/EB family member1 isoform X4
+Putative XP_035912467.1 85/88 kDa calcium-independent phospholipase A2isoform X6
+Putative XP_035912505.1 RNA polymerase II elongation factor Ell isoformX3
+Putative XP_035912515.1 stAR-related lipid transfer protein 7 mitochondrialisoform X2
+Putative XP_035912557.1 beta-14-N-acetylgalactosaminyltransferase bre-4isoform X2
+Putative XP_035912577.1 SLIT-ROBO Rho GTPase-activating protein 1-likeisoform X2
+Putative XP_035912666.1 pyruvate carboxylase mitochondrial isoform X
+Putative XP_035912692.1 protein rhomboid
+Putative XP_035912699.1 group 3 secretory phospholipase A2 isoform X - signalP detected
+Putative XP_035912709.1 LOW QUALITY PROTEIN: TWiK family of potassiumchannels protein 18
+Putative XP_035912755.1 sodium channel protein para isoform X24 - signalP detected
+Putative XP_035912844.1 polypeptide N-acetylgalactosaminyltransferase5 isoform X1
+Putative XP_035912862.1 forkhead box protein D2-like isoform X1
+Putative XP_035912875.1 insulin-like growth factor-binding protein complexacid labile subunit isoform X1 - signalP detected
+Putative XP_035912899.1 RNA-binding protein 5-B-like isoform X1
+Putative XP_035913022.1 epidermal growth factor receptor substrate 15-like1 isoform X2
+Putative XP_035913028.1 glutathione S-transferase 1-like isoform X1
+Putative XP_035913130.1 ubiquitin carboxyl-terminal hydrolase CYLD isoformX1
+Putative XP_035913173.1 eukaryotic translation initiation factor 4 gamma1-like
+Putative XP_035913176.1 RNA-binding protein 39-like
+Putative XP_035913287.1 bifunctional arginine demethylase and lysyl-hydroxylasePSR-like isoform X1
+Putative XP_035913315.1 matrix metalloproteinase-14 isoform X1 - signalP detected
+Putative XP_035913349.1 LON peptidase N-terminal domain and RING fingerprotein 3
+Putative XP_035913436.1 glutathione S-transferase C-terminal domain-containingprotein homolog isoform X1
+Putative XP_035913465.1 semaphorin-1A isoform X1
+Putative XP_035913590.1 uncharacterized Golgi apparatus membrane protein-likeprotein CG5021 isoform X1
+Putative XP_035913642.1 putative mediator of RNA polymerase II transcriptionsubunit 12 isoform X1
+Putative XP_035913761.1 autophagy-related protein 18
+Putative XP_035913842.1 splicing factor 3B subunit 3 isoform X1
+Putative XP_035913902.1 serine/threonine-protein kinase tricornered
+Putative XP_035913924.1 putative mediator of RNA polymerase II transcriptionsubunit 26 isoform X1
+Putative XP_035913965.1 phospholipid scramblase 2-like isoform X1
+Putative XP_035914034.1 diuretic hormone receptor-like isoform X6
+Putative XP_035914061.1 C-type lectin 37Da-like - signalP detected
+Putative XP_035914156.1 transcription factor hamlet isoform X3
+Putative XP_035914176.1 serine/threonine-protein phosphatase 6 regulatorysubunit 3 isoform X2
+Putative XP_035914247.1 putative phospholipase B-like lamina ancesto
+Putative XP_035914380.1 protein phosphatase 1 regulatory subunit 12A isoformX15
+Putative XP_035914424.1 autophagy-related protein 13 homolog
+Putative XP_035914434.1 transcription initiation factor TFIID subunit4-like isoform X2
+Putative XP_035914510.1 tyrosine-protein kinase receptor torso isoformX1
+Putative XP_035914546.1 H(+)/Cl(-) exchange transporter 5 isoform X1
+Putative XP_035914703.1 serine/threonine-protein phosphatase PP2A 65 kDaregulatory subunit isoform X5
+Putative XP_035914721.1 aromatic-L-amino-acid decarboxylase isoform X
+Putative XP_035914726.1 sorting nexin-21 isoform X1
+Putative XP_035914776.1 solute carrier organic anion transporter familymember 4C1 isoform X2
+Putative XP_035914900.1 aminopeptidase N - signalP detected
+Putative XP_035914928.1 mucin-5AC isoform X5
+Putative XP_035915018.1 tRNA N(3)-methylcytidine methyltransferase METTL
+Putative XP_035915337.1 cGMP-dependent protein kinase isozyme 2 formscD4/T1/T3A/T3B isoform X4
+Putative XP_035915366.1 mucin-19 isoform X3
+Putative XP_035915391.1 aquaporin AQPcic isoform X1
+Putative XP_035915406.1 aquaporin AQPAn.G isoform X3
+Putative XP_035915541.1 zinc transporter ZIP11
+Putative XP_035915577.1 dual specificity protein phosphatase 3 isoformX2
+Putative XP_035915751.1 NPC intracellular cholesterol transporter 1-likeisoform X5
+Putative XP_035915771.1 receptor-type tyrosine-protein phosphatase-likeN
+Putative XP_035915832.1 inactive serine protease scarface-like isoformX3 - signalP detected
+Putative XP_035916009.1 forkhead box protein C1 isoform X3
+Putative XP_035916029.1 nuclear receptor-binding protein
+Putative XP_035916085.1 dihydrolipoyllysine-residue acetyltransferasecomponent of pyruvate dehydrogenase complex mitochondrial isoform X1
+Putative XP_035916215.1 LOW QUALITY PROTEIN: monocarboxylate transporter10
+Putative XP_035916252.1 sodium/potassium-transporting ATPase subunit beta-2-likeisoform X1 - Membrane anchor detected
+Putative XP_035916270.1 sodium/potassium-transporting ATPase subunit beta-1-lik
+Putative XP_035916403.1 LOW QUALITY PROTEIN: sodium-coupled monocarboxylatetransporter 1-like
+Putative XP_035916421.1 sodium channel protein Nach isoform X2
+Putative XP_035916468.1 ral GTPase-activating protein subunit beta isoformX3
+Putative XP_035916532.1 ras-related protein Rab-5B
+Putative XP_035916586.1 protein phosphatase 1 regulatory subunit 14B
+Putative XP_035916728.1 steroidogenic acute regulatory protein-like
+Putative XP_035916854.1 multiple inositol polyphosphate phosphatase  - signalP detected
+Putative XP_035916888.1 RNA-binding protein Musashi homolog Rbp6 isoformX4
+Putative XP_035916919.1 fatty acid synthase-like
+Putative XP_035917038.1 semaphorin-2A-like isoform X1 - signalP detected
+Putative XP_035917052.1 regulator of G-protein signaling 7
+Putative XP_035917214.1 mucin-19 isoform X5
+Putative XP_035917293.1 RNA-binding protein 1-like isoform X1
+Putative XP_035917353.1 tubulin polyglutamylase TTLL4 isoform X2
+Putative XP_035917376.1 netrin receptor UNC5C-like isoform X3 - signalP detected
+Putative XP_035917414.1 serine/threonine-protein kinase GL21140 isoformX2
+Putative XP_035917432.1 protein phosphatase 1L
+Putative XP_035917444.1 homocysteine S-methyltransferase 1-like
+Putative XP_035917538.1 insulin-like peptide receptor
+Putative XP_035917604.1 putative ankyrin repeat protein RF_0381 isoformX2
+Putative XP_035917810.1 crossover junction endonuclease MUS81-like
+Putative XP_035917990.1 mucin-5AC isoform X2
+Putative XP_035917993.1 probable phosphorylase b kinase regulatory subunitalpha isoform X2
+Putative XP_035918033.1 poly(U)-binding-splicing factor half pint-lik
+Putative XP_035918093.1 nuclear hormone receptor FTZ-F1-like isoform X
+Putative XP_035918198.1 28S rRNA (cytosine-C(5))-methyltransferase-lik
+Putative XP_035918358.1 transcriptional activator protein Pur-alpha-lik
+Putative XP_035918370.1 cationic amino acid transporter 2-like isoformX2
+Putative XP_035918497.1 mannosyl-oligosaccharide alpha-12-mannosidaseIA isoform X1
+Putative XP_035918545.1 palmitoyltransferase ZDHHC5 isoform X3 - signalP detected
+Putative XP_035918669.1 echinoderm microtubule-associated protein-likeCG42247 isoform X1
+Putative XP_035918998.1 elongation of very long chain fatty acids protein1-like isoform X1
+Putative XP_035919173.1 glycoprotein endo-alpha-12-mannosidase-like
+Putative XP_035919409.1 leucine-rich repeat serine/threonine-protein kinase1 isoform X1
+Putative XP_035919413.1 glutamate receptor ionotropic kainate 2-likeisoform X2
+Putative XP_035919489.1 protein kibra isoform X1
+Putative XP_035919565.1 carboxypeptidase M-like isoform X3 - signalP detected
+Putative XP_035919608.1 TBC domain-containing protein kinase-like protei
+Putative XP_035919696.1 LOW QUALITY PROTEIN: cell wall protein RBR3
+Putative XP_035919727.1 A disintegrin and metalloproteinase with thrombospondinmotifs 7 isoform X1
+Putative XP_035919731.1 myogenesis-regulating glycosidase isoform X1
+Putative XP_035919737.1 nuclear speckle splicing regulatory protein 1-lik
+Putative XP_035919741.1 tyrosine-protein phosphatase non-receptor type9 isoform X2
+Putative XP_035919760.1 putative gustatory receptor 2a isoform X6 - signalP detected
+Putative XP_035919770.1 graves disease carrier protein homolog isoformX2
+Putative XP_035919820.1 alpha-16-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferaseisoform X3
+Putative XP_035919831.1 ecdysone receptor isoform X2
+Putative XP_035919854.1 calcium-binding mitochondrial carrier proteinAralar1 isoform X5
+Putative XP_035919969.1 serine/threonine-protein kinase meng-po
+Putative XP_035920016.1 serine/threonine-protein kinase ATR
+Putative XP_035920064.1 rho GTPase-activating protein 26 isoform X2
+Putative XP_035920078.1 enoyl-CoA hydratase domain-containing protein3 mitochondrial
+Putative YAP binding domain
+Putative YT521-B-like domain
+putative zinc ring finger of msl2
+putative zinc-dependent metalloprotease
+putative zinc-dependent metalloprotease - signalP detected
+Putative ZIP Zinc transporter - signalP detected
+Putative Zona pellucida

@@ -1,0 +1,22 @@
+#                                                                               --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name           accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#   ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+TCONS_00018425:188-3082 -            965 26078at6656          -            584  8.3e-192  638.1  31.5   1   3  1.4e-113  4.5e-110  368.2   6.9     1   275   138   482   138   498 0.83 -
+TCONS_00018425:188-3082 -            965 26078at6656          -            584  8.3e-192  638.1  31.5   2   3   8.4e-65   2.7e-61  207.1   9.9   289   488   527   783   509   790 0.80 -
+TCONS_00018425:188-3082 -            965 26078at6656          -            584  8.3e-192  638.1  31.5   3   3   6.1e-21     2e-17   62.3   0.5   488   571   804   908   796   916 0.83 -
+TCONS_00026312:188-3160 -            965 26078at6656          -            584  8.3e-192  638.1  31.5   1   3  1.4e-113  4.5e-110  368.2   6.9     1   275   138   482   138   498 0.83 -
+TCONS_00026312:188-3160 -            965 26078at6656          -            584  8.3e-192  638.1  31.5   2   3   8.4e-65   2.7e-61  207.1   9.9   289   488   527   783   509   790 0.80 -
+TCONS_00026312:188-3160 -            965 26078at6656          -            584  8.3e-192  638.1  31.5   3   3   6.1e-21     2e-17   62.3   0.5   488   571   804   908   796   916 0.83 -
+TCONS_00018424:144-4750 -           1311 26078at6656          -            584  5.8e-191  635.3  30.8   1   3  2.2e-113  7.1e-110  367.5   6.8     1   275   454   798   454   814 0.83 -
+TCONS_00018424:144-4750 -           1311 26078at6656          -            584  5.8e-191  635.3  30.8   2   3   9.3e-65     3e-61  207.0   9.4   289   488   843  1099   824  1107 0.80 -
+TCONS_00018424:144-4750 -           1311 26078at6656          -            584  5.8e-191  635.3  30.8   3   3   9.2e-21   2.9e-17   61.7   0.5   488   571  1120  1224  1112  1232 0.83 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/busco_downloads/lineages/arthropoda_odb10/hmms/26078at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/all_transcripts.comprehensive.v6.gffread.fa.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/26078at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/busco_downloads/lineages/arthropoda_odb10/hmms/26078at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco/refguided_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/all_transcripts.comprehensive.v6.gffread.fa.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/busco
+# Date:            Thu Feb  9 16:52:26 2023
+# [ok]

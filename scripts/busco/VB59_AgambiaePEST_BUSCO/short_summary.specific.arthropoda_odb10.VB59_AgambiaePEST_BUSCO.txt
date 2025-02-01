@@ -1,0 +1,19 @@
+# BUSCO version is: 5.4.2 
+# The lineage dataset is: arthropoda_odb10 (Creation date: 2020-09-10, number of genomes: 90, number of BUSCOs: 1013)
+# Summarized benchmarking in BUSCO notation for file /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/reference_genome/VectorBase-59_AgambiaePEST_Genome.fasta
+# BUSCO was run in mode: euk_tran
+
+	***** Results: *****
+
+	C:98.5%[S:96.3%,D:2.2%],F:0.6%,M:0.9%,n:1013	   
+	998	Complete BUSCOs (C)			   
+	976	Complete and single-copy BUSCOs (S)	   
+	22	Complete and duplicated BUSCOs (D)	   
+	6	Fragmented BUSCOs (F)			   
+	9	Missing BUSCOs (M)			   
+	1013	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	metaeuk: 6.a5d39d9
+	busco: 5.4.2

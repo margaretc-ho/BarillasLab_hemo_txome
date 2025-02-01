@@ -1,0 +1,12 @@
+de_novo.seqSigP-143796.1	MetaEuk	gene	3	791	499	-	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.seqSigP-143796.1|-|2
+de_novo.seqSigP-143796.1	MetaEuk	mRNA	3	791	499	-	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.seqSigP-143796.1|-|2_mRNA;Parent=129989at6656_7165_0:001dce|de_novo.seqSigP-143796.1|-|2
+de_novo.seqSigP-143796.1	MetaEuk	exon	3	791	499	-	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.seqSigP-143796.1|-|2_exon_0;Parent=129989at6656_7165_0:001dce|de_novo.seqSigP-143796.1|-|2_mRNA
+de_novo.seqSigP-143796.1	MetaEuk	CDS	3	791	499	-	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.seqSigP-143796.1|-|2_CDS_0;Parent=129989at6656_7165_0:001dce|de_novo.seqSigP-143796.1|-|2_exon_0
+de_novo.AGAP011345-RA.1	MetaEuk	gene	1	822	520	+	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.AGAP011345-RA.1|+|0
+de_novo.AGAP011345-RA.1	MetaEuk	mRNA	1	822	520	+	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.AGAP011345-RA.1|+|0_mRNA;Parent=129989at6656_7165_0:001dce|de_novo.AGAP011345-RA.1|+|0
+de_novo.AGAP011345-RA.1	MetaEuk	exon	1	822	520	+	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.AGAP011345-RA.1|+|0_exon_0;Parent=129989at6656_7165_0:001dce|de_novo.AGAP011345-RA.1|+|0_mRNA
+de_novo.AGAP011345-RA.1	MetaEuk	CDS	1	822	520	+	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.AGAP011345-RA.1|+|0_CDS_0;Parent=129989at6656_7165_0:001dce|de_novo.AGAP011345-RA.1|+|0_exon_0
+de_novo.Agseq_143797.1	MetaEuk	gene	31	495	280	+	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.Agseq_143797.1|+|30
+de_novo.Agseq_143797.1	MetaEuk	mRNA	31	495	280	+	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.Agseq_143797.1|+|30_mRNA;Parent=129989at6656_7165_0:001dce|de_novo.Agseq_143797.1|+|30
+de_novo.Agseq_143797.1	MetaEuk	exon	31	495	280	+	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.Agseq_143797.1|+|30_exon_0;Parent=129989at6656_7165_0:001dce|de_novo.Agseq_143797.1|+|30_mRNA
+de_novo.Agseq_143797.1	MetaEuk	CDS	31	495	280	+	.	Target_ID=129989at6656_7165_0:001dce;TCS_ID=129989at6656_7165_0:001dce|de_novo.Agseq_143797.1|+|30_CDS_0;Parent=129989at6656_7165_0:001dce|de_novo.Agseq_143797.1|+|30_exon_0

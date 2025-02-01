@@ -1,0 +1,8 @@
+de_novo.Agseq_75763.1	MetaEuk	gene	3	185	129	-	.	Target_ID=124174at6656_7165_0:002cc8;TCS_ID=124174at6656_7165_0:002cc8|de_novo.Agseq_75763.1|-|2
+de_novo.Agseq_75763.1	MetaEuk	mRNA	3	185	129	-	.	Target_ID=124174at6656_7165_0:002cc8;TCS_ID=124174at6656_7165_0:002cc8|de_novo.Agseq_75763.1|-|2_mRNA;Parent=124174at6656_7165_0:002cc8|de_novo.Agseq_75763.1|-|2
+de_novo.Agseq_75763.1	MetaEuk	exon	3	185	129	-	.	Target_ID=124174at6656_7165_0:002cc8;TCS_ID=124174at6656_7165_0:002cc8|de_novo.Agseq_75763.1|-|2_exon_0;Parent=124174at6656_7165_0:002cc8|de_novo.Agseq_75763.1|-|2_mRNA
+de_novo.Agseq_75763.1	MetaEuk	CDS	3	185	129	-	.	Target_ID=124174at6656_7165_0:002cc8;TCS_ID=124174at6656_7165_0:002cc8|de_novo.Agseq_75763.1|-|2_CDS_0;Parent=124174at6656_7165_0:002cc8|de_novo.Agseq_75763.1|-|2_exon_0
+de_novo.seqSigP-75763.1	MetaEuk	gene	4	540	253	+	.	Target_ID=124174at6656_112268_0:002882;TCS_ID=124174at6656_112268_0:002882|de_novo.seqSigP-75763.1|+|3
+de_novo.seqSigP-75763.1	MetaEuk	mRNA	4	540	253	+	.	Target_ID=124174at6656_112268_0:002882;TCS_ID=124174at6656_112268_0:002882|de_novo.seqSigP-75763.1|+|3_mRNA;Parent=124174at6656_112268_0:002882|de_novo.seqSigP-75763.1|+|3
+de_novo.seqSigP-75763.1	MetaEuk	exon	4	540	253	+	.	Target_ID=124174at6656_112268_0:002882;TCS_ID=124174at6656_112268_0:002882|de_novo.seqSigP-75763.1|+|3_exon_0;Parent=124174at6656_112268_0:002882|de_novo.seqSigP-75763.1|+|3_mRNA
+de_novo.seqSigP-75763.1	MetaEuk	CDS	4	540	253	+	.	Target_ID=124174at6656_112268_0:002882;TCS_ID=124174at6656_112268_0:002882|de_novo.seqSigP-75763.1|+|3_CDS_0;Parent=124174at6656_112268_0:002882|de_novo.seqSigP-75763.1|+|3_exon_0

@@ -1,0 +1,19 @@
+# BUSCO version is: 5.4.2 
+# The lineage dataset is: arthropoda_odb10 (Creation date: 2020-09-10, number of genomes: 90, number of BUSCOs: 1013)
+# Summarized benchmarking in BUSCO notation for file /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/denovo/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa
+# BUSCO was run in mode: euk_tran
+
+	***** Results: *****
+
+	C:87.3%[S:59.7%,D:27.6%],F:3.7%,M:9.0%,n:1013	   
+	885	Complete BUSCOs (C)			   
+	605	Complete and single-copy BUSCOs (S)	   
+	280	Complete and duplicated BUSCOs (D)	   
+	37	Fragmented BUSCOs (F)			   
+	91	Missing BUSCOs (M)			   
+	1013	Total BUSCO groups searched		   
+
+Dependencies and versions:
+	hmmsearch: 3.1
+	metaeuk: 6.a5d39d9
+	busco: 5.4.2

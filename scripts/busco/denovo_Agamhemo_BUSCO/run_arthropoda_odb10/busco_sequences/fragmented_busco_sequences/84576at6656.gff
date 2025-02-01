@@ -1,0 +1,4 @@
+de_novo.Agseq_55029.1	MetaEuk	gene	48	362	148	-	.	Target_ID=84576at6656;TCS_ID=84576at6656|de_novo.Agseq_55029.1|-|47
+de_novo.Agseq_55029.1	MetaEuk	mRNA	48	362	148	-	.	Target_ID=84576at6656;TCS_ID=84576at6656|de_novo.Agseq_55029.1|-|47_mRNA;Parent=84576at6656|de_novo.Agseq_55029.1|-|47
+de_novo.Agseq_55029.1	MetaEuk	exon	48	362	148	-	.	Target_ID=84576at6656;TCS_ID=84576at6656|de_novo.Agseq_55029.1|-|47_exon_0;Parent=84576at6656|de_novo.Agseq_55029.1|-|47_mRNA
+de_novo.Agseq_55029.1	MetaEuk	CDS	48	362	148	-	.	Target_ID=84576at6656;TCS_ID=84576at6656|de_novo.Agseq_55029.1|-|47_CDS_0;Parent=84576at6656|de_novo.Agseq_55029.1|-|47_exon_0

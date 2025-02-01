@@ -1,0 +1,4 @@
+de_novo.Agseq_114012.1	MetaEuk	gene	1	3162	1952	+	.	Target_ID=41990at6656_7165_0:0002e0;TCS_ID=41990at6656_7165_0:0002e0|de_novo.Agseq_114012.1|+|0
+de_novo.Agseq_114012.1	MetaEuk	mRNA	1	3162	1952	+	.	Target_ID=41990at6656_7165_0:0002e0;TCS_ID=41990at6656_7165_0:0002e0|de_novo.Agseq_114012.1|+|0_mRNA;Parent=41990at6656_7165_0:0002e0|de_novo.Agseq_114012.1|+|0
+de_novo.Agseq_114012.1	MetaEuk	exon	1	3162	1952	+	.	Target_ID=41990at6656_7165_0:0002e0;TCS_ID=41990at6656_7165_0:0002e0|de_novo.Agseq_114012.1|+|0_exon_0;Parent=41990at6656_7165_0:0002e0|de_novo.Agseq_114012.1|+|0_mRNA
+de_novo.Agseq_114012.1	MetaEuk	CDS	1	3162	1952	+	.	Target_ID=41990at6656_7165_0:0002e0;TCS_ID=41990at6656_7165_0:0002e0|de_novo.Agseq_114012.1|+|0_CDS_0;Parent=41990at6656_7165_0:0002e0|de_novo.Agseq_114012.1|+|0_exon_0

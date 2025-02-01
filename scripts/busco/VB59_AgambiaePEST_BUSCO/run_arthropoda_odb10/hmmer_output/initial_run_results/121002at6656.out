@@ -1,0 +1,19 @@
+#                                                                                   --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name               accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#       ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+AgamP4_2R:31945816-31949300 -            900 121002at6656         -            220   3.8e-75  249.9  18.4   1   3     1e-06    0.0015   15.8   0.1     2    25   516   540   515   551 0.87 -
+AgamP4_2R:31945816-31949300 -            900 121002at6656         -            220   3.8e-75  249.9  18.4   2   3   1.7e-30   2.5e-27   93.6   0.2    21    77   564   620   560   639 0.87 -
+AgamP4_2R:31945816-31949300 -            900 121002at6656         -            220   3.8e-75  249.9  18.4   3   3   2.7e-45   4.1e-42  141.9   9.1    84   220   681   854   656   854 0.79 -
+AgamP4_2R:31931582-31932496 -            305 121002at6656         -            220   8.6e-65  216.1  25.0   1   3   6.6e-07     0.001   16.4   0.3     3    25     2    25     1    33 0.90 -
+AgamP4_2R:31931582-31932496 -            305 121002at6656         -            220   8.6e-65  216.1  25.0   2   3   7.2e-31   1.1e-27   94.7   1.2    21    78    49   106    46   126 0.86 -
+AgamP4_2R:31931582-31932496 -            305 121002at6656         -            220   8.6e-65  216.1  25.0   3   3   2.8e-35   4.4e-32  109.1  10.7    84   178   166   284   137   305 0.79 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/121002at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/VB59_AgambiaePEST_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/VectorBase-59_AgambiaePEST_Genome.fasta.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/VB59_AgambiaePEST_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/121002at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/121002at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/VB59_AgambiaePEST_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/VectorBase-59_AgambiaePEST_Genome.fasta.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco
+# Date:            Fri Jan 27 16:39:50 2023
+# [ok]

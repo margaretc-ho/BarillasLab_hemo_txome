@@ -1,0 +1,8 @@
+de_novo.seqSigP-363236.1	MetaEuk	gene	1	2895	1944	+	.	Target_ID=30267at6656_7165_0:000acb;TCS_ID=30267at6656_7165_0:000acb|de_novo.seqSigP-363236.1|+|0
+de_novo.seqSigP-363236.1	MetaEuk	mRNA	1	2895	1944	+	.	Target_ID=30267at6656_7165_0:000acb;TCS_ID=30267at6656_7165_0:000acb|de_novo.seqSigP-363236.1|+|0_mRNA;Parent=30267at6656_7165_0:000acb|de_novo.seqSigP-363236.1|+|0
+de_novo.seqSigP-363236.1	MetaEuk	exon	1	2895	1944	+	.	Target_ID=30267at6656_7165_0:000acb;TCS_ID=30267at6656_7165_0:000acb|de_novo.seqSigP-363236.1|+|0_exon_0;Parent=30267at6656_7165_0:000acb|de_novo.seqSigP-363236.1|+|0_mRNA
+de_novo.seqSigP-363236.1	MetaEuk	CDS	1	2895	1944	+	.	Target_ID=30267at6656_7165_0:000acb;TCS_ID=30267at6656_7165_0:000acb|de_novo.seqSigP-363236.1|+|0_CDS_0;Parent=30267at6656_7165_0:000acb|de_novo.seqSigP-363236.1|+|0_exon_0
+de_novo.Agseq_363236.1	MetaEuk	gene	5	472	109	-	.	Target_ID=30267at6656_441921_0:000926;TCS_ID=30267at6656_441921_0:000926|de_novo.Agseq_363236.1|-|4
+de_novo.Agseq_363236.1	MetaEuk	mRNA	5	472	109	-	.	Target_ID=30267at6656_441921_0:000926;TCS_ID=30267at6656_441921_0:000926|de_novo.Agseq_363236.1|-|4_mRNA;Parent=30267at6656_441921_0:000926|de_novo.Agseq_363236.1|-|4
+de_novo.Agseq_363236.1	MetaEuk	exon	5	472	109	-	.	Target_ID=30267at6656_441921_0:000926;TCS_ID=30267at6656_441921_0:000926|de_novo.Agseq_363236.1|-|4_exon_0;Parent=30267at6656_441921_0:000926|de_novo.Agseq_363236.1|-|4_mRNA
+de_novo.Agseq_363236.1	MetaEuk	CDS	5	472	109	-	.	Target_ID=30267at6656_441921_0:000926;TCS_ID=30267at6656_441921_0:000926|de_novo.Agseq_363236.1|-|4_CDS_0;Parent=30267at6656_441921_0:000926|de_novo.Agseq_363236.1|-|4_exon_0

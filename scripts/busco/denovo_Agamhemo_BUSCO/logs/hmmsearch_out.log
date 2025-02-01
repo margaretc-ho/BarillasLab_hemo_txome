@@ -1,0 +1,95 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.1b2 (February 2015); http://hmmer.org/
+# Copyright (C) 2015 Howard Hughes Medical Institute.
+# Freely distributed under the GNU General Public License (GPLv3).
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/9648at6656.hmm
+# target sequence database:        /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/rerun_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas
+# per-dom hits tabular output:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/rerun_results/9648at6656.out
+# number of worker threads:        1
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       9648at6656  [M=1145]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence                                               Description
+    ------- ------ -----    ------- ------ -----   ---- --  --------                                               -----------
+    1.1e-79  265.0   0.0    1.8e-79  264.3   0.0    1.3  1  de_novo.Agm54242U_210909_035710_6359664_ccs.1:315-1325  
+    2.3e-13   45.4   0.1    3.6e-06   21.6   0.0    3.3  3  de_novo.Agm54242U_210819_213017_1509651_ccs.1:264-1181  
+
+
+Domain annotation for each sequence (and alignments):
+>> de_novo.Agm54242U_210909_035710_6359664_ccs.1:315-1325  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !  264.3   0.0   2.5e-82   1.8e-79     898    1075 ..       1     195 [.       1     209 [. 0.89
+
+  Alignments for each domain:
+  == domain 1  score: 264.3 bits;  conditional E-value: 2.5e-82
+                                              9648at6656  898 maGtgdlevlrlvrllrsrvg.svvtYGshlaihmalGlLFLggGrytlstsp 949 
+                                                              +aGtg l+vlr +r+lrsr+g ++vtYGsh+a+hmalG+LFLg+Gr+tls+sp
+  de_novo.Agm54242U_210909_035710_6359664_ccs.1:315-1325    1 LAGTGSLRVLRPIRMLRSRIGfQHVTYGSHMAVHMALGFLFLGAGRFTLSRSP 53  
+                                                              59******************9679***************************** PP
+
+                                              9648at6656  950 eavaalicalfPkfPthsnDnrYhLQAlrHLYvLAvepRlllprdidtgklcy 1002
+                                                              ea+aal+ca+fPkfPt+snDnrYhLQA+rHLYvLA+epR++lpr+idtg+l +
+  de_novo.Agm54242U_210909_035710_6359664_ccs.1:315-1325   54 EAIAALVCAIFPKFPTYSNDNRYHLQAFRHLYVLAIEPRIFLPRSIDTGRLSL 106 
+                                                              ***************************************************** PP
+
+                                              9648at6656 1003 akikv.........vklkaPcllPelkllkkv...derywpivFerdknwdqL 1043
+                                                              ++i++         v++ aPcllPel +l  +   de++w+  F+r++nw+ L
+  de_novo.Agm54242U_210909_035710_6359664_ccs.1:315-1325  107 CRIRYaavgrehqpVEQFAPCLLPELGTLAWLevcDENFWHFRFDRHHNWQIL 159 
+                                                              ***983333333334678*******98875432239***************** PP
+
+                                              9648at6656 1044 eklle....ldvkqragclsyledpkgfksllaqtl 1075
+                                                              e++++    +dvkqr+gcl+y+edp+++ +  ++++
+  de_novo.Agm54242U_210909_035710_6359664_ccs.1:315-1325  160 ESIFKknerVDVKQRTGCLTYQEDPTRLITSQMNAF 195 
+                                                              ***9655559*****************988776655 PP
+
+>> de_novo.Agm54242U_210819_213017_1509651_ccs.1:264-1181  
+   #    score  bias  c-Evalue  i-Evalue hmmfrom  hmm to    alifrom  ali to    envfrom  env to     acc
+ ---   ------ ----- --------- --------- ------- -------    ------- -------    ------- -------    ----
+   1 !   21.6   0.0     5e-09   3.6e-06      25      66 ..      62     105 ..      24     113 .. 0.86
+   2 !   18.7   0.0   3.7e-08   2.7e-05      65     119 ..     125     187 ..     117     194 .. 0.79
+   3 ?    0.5   0.0     0.011       8.2     117     132 ..     291     306 .]     288     306 .] 0.91
+
+  Alignments for each domain:
+  == domain 1  score: 21.6 bits;  conditional E-value: 5e-09
+                                              9648at6656  25 ficll..dslkvytekgedyvtslefkvskvwstkygllleklp 66 
+                                                              icl+  d+l+v+ + g++y ++l+++vs+vw++  g+lle+ +
+  de_novo.Agm54242U_210819_213017_1509651_ccs.1:264-1181  62 AICLIekDTLHVFLDGGDTYKAMLQCPVSAVWMMPDGILLEQQT 105
+                                                             688874468********************************975 PP
+
+  == domain 2  score: 18.7 bits;  conditional E-value: 3.7e-08
+                                              9648at6656  65 lptlfsllhpldeitpvllklsy....ltd...kivftseepslvllydk.kgkh 111
+                                                             +p+lf+l++pl+e+ pvll +      l++   ++vftse+  lvlly + +gkh
+  de_novo.Agm54242U_210819_213017_1509651_ccs.1:264-1181 125 WPRLFTLTFPLEEMKPVLLLTGLnygfLHQpdyRVVFTSEQVALVLLYVEpSGKH 179
+                                                             599**************98654311113323338**************76379** PP
+
+                                              9648at6656 112 svlkirka 119
+                                                             +++k+r +
+  de_novo.Agm54242U_210819_213017_1509651_ccs.1:264-1181 180 VIYKLRLT 187
+                                                             *****976 PP
+
+  == domain 3  score: 0.5 bits;  conditional E-value: 0.011
+                                              9648at6656 117 rkaplvpelclehvwt 132
+                                                             r+ pl+p++clehvwt
+  de_novo.Agm54242U_210819_213017_1509651_ccs.1:264-1181 291 RSEPLAPQYCLEHVWT 306
+                                                             7889***********8 PP
+
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                              1  (1145 nodes)
+Target sequences:                         1470  (337106 residues searched)
+Passed MSV filter:                        38  (0.0258503); expected 29.4 (0.02)
+Passed bias filter:                       30  (0.0204082); expected 29.4 (0.02)
+Passed Vit filter:                         2  (0.00136054); expected 1.5 (0.001)
+Passed Fwd filter:                         2  (0.00136054); expected 0.0 (1e-05)
+Initial search space (Z):               1470  [actual number of targets]
+Domain search space  (domZ):               2  [number of targets reported over threshold]
+# CPU time: 0.07u 0.00s 00:00:00.07 Elapsed: 00:00:00.07
+# Mc/sec: 5514.09
+//
+[ok]

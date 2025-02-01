@@ -1,0 +1,82 @@
+####### Starting Counts of Transcripts ####### 
+24970 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/denovo/de_novo_transcriptome_with_genome_hits_and_expression_filtering.transcriptspanonly.gtf
+16066 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/reference_genome/VectorBase-59_AgambiaePEST.transcriptspanonly.gtf
+30595 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/comparison_of_transcriptomes_v6/ref_guided_transcriptome_with_percent_identity_collapsing.proteincoding.transcriptspanonly.gtf
+####### 98pct identity required ####### 
+DN intersect RF
+22428
+DN intersect RG
+24088
+RF intersect DN
+1541
+RF intersect RG
+12095
+RG intersect DN
+2532
+RG intersect RF
+16439
+####### 98pct identity required ####### 
+DN intersect RF intersect RG
+22278
+DN intersect RG intersect RF
+22278
+RF intersect DN intersect RG
+1435
+RF intersect RG intersect DN
+1435
+RG intersect DN intersect RF
+1756
+RG intersect RF intersect DN
+1756
+####### 98pct identity required ####### 
+DN notin RF notin RG
+732
+DN notin RG notin RF
+732
+RF notin DN notin RG
+3865
+RF notin RG notin DN
+3865
+RG notin DN notin RF
+13380
+RG notin RF notin DN
+13380
+####### 50pct identity required ####### 
+DN intersect RF
+23223
+DN intersect RG
+24421
+RF intersect DN
+7911
+RF intersect RG
+12802
+RG intersect DN
+16464
+RG intersect RF
+26278
+####### 50pct identity required ####### 
+DN intersect RF intersect RG
+23099
+DN intersect RG intersect RF
+23099
+RF intersect DN intersect RG
+7797
+RF intersect RG intersect DN
+7797
+RG intersect DN intersect RF
+15534
+RG intersect RF intersect DN
+15534
+####### 50pct identity required ####### 
+DN notin RF notin RG
+425
+DN notin RG notin RF
+425
+RF notin DN notin RG
+3150
+RF notin RG notin DN
+3150
+RG notin DN notin RF
+3387
+RG notin RF notin DN
+3387

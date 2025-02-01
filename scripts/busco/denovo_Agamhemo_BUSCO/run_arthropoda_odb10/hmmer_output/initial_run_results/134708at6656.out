@@ -1,0 +1,19 @@
+#                                                                                                              --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name                                          accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#                                  ------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+de_novo.Agm54242U_210819_213017_116261973_ccs.1:0-968  -            323 134708at6656         -            251    4e-123  408.0  21.3   1   2   3.9e-13   7.3e-10   37.0   8.2     1    91     1   111     1   115 0.74 -
+de_novo.Agm54242U_210819_213017_116261973_ccs.1:0-968  -            323 134708at6656         -            251    4e-123  408.0  21.3   2   2  3.2e-114    6e-111  368.1   6.5    34   251   111   323   101   323 0.87 -
+de_novo.Agm54242Ue_220404_200923_91294497_ccs.1:33-524 -            164 134708at6656         -            251  4.6e-103  342.3   0.2   1   1  2.8e-106  5.2e-103  342.1   0.2    86   241     9   164     2   164 0.98 -
+de_novo.Agm54242Ue_220404_200923_61343559_ccs.1:0-611  -            204 134708at6656         -            251     6e-79  263.3  15.6   1   3     5e-10   9.4e-07   26.8   0.3     1    36     1    37     1    48 0.83 -
+de_novo.Agm54242Ue_220404_200923_61343559_ccs.1:0-611  -            204 134708at6656         -            251     6e-79  263.3  15.6   2   3   3.4e-09   6.5e-06   24.1   1.4    30    78    52    99    43   108 0.80 -
+de_novo.Agm54242Ue_220404_200923_61343559_ccs.1:0-611  -            204 134708at6656         -            251     6e-79  263.3  15.6   3   3   1.4e-69   2.6e-66  221.9   1.5   155   251   108   204   104   204 0.99 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/134708at6656.hmm
+# Target file:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas
+# Option settings: hmmsearch --domtblout /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/hmmer_output/initial_run_results/134708at6656.out --cpu 1 /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/busco_downloads/lineages/arthropoda_odb10/hmms/134708at6656.hmm /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco/denovo_Agamhemo_BUSCO/run_arthropoda_odb10/metaeuk_output/initial_results/de_novo_transcriptome_with_genome_hits_and_expression_filtering.gffread.fa.modified.fas 
+# Current dir:     /hpcdata/bcbb/homc/Barillaslab/Agam_hemo_transcriptomes/scripts/compare_txomes/busco
+# Date:            Sun Jan 29 12:57:35 2023
+# [ok]

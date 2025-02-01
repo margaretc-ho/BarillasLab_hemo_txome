@@ -1,0 +1,55 @@
+Catalytic domain of the Serine/Threoninekinase
+Catalytic domain of the Serine/ThreonineKinases
+Catalytic domain of the Serine/Threonine Kinases
+Catalytic domain of the Serine/Threonineprotein kinases
+Catalytic domain of the Serine/Threonine proteinkinase
+Catalytic domain of the Serine/Threonineprotein kinase
+utative adenylate cyclase type 2 isoform x4 stephensi
+putative adenylate cyclase type 9 isoform x1 stephensiputative adenylate cyclase type 2 stephensi
+putative adenylate cyclase type 3 stephensi
+AGAP005203-PF peptidoglycan recognition protein (long)
+AGAP005205-PA peptidoglycan recognition protein (long)
+AGAP009471-PA ATP-binding cassette transporter (ABC transporter)family G member 19
+AGAP029451-PA ATP-binding cassette transporter (ABC transporter)family G member 3
+AGAP029514-PA Protein kinase domain-containing protein
+AGAP029531-PB Protein kinase domain-containing protein
+Catalytic domain of Class I Phosphoinositide3-kinase
+Catalytic domain of Class II Phosphoinositide3-kinase
+Catalytic domain of the protein kinase
+Catalytic domain of the protein kinases
+Catalytic inositol polyphosphate 5-phosphatase
+Catalytic inositol polyphosphate5-phosphatase
+utative e3 ubiquitin-protein ligase herc2 stephensi
+putative e3 ubiquitin-protein ligase mib2 stephensi
+putative e3 ubiquitin-protein ligase hyd isoform x4 stephensi
+putative e3 ubiquitin-protein ligase ufd4 isoform x4 stephensi
+Major facilitator superfamily domain-containingprotein 10
+Major facilitator superfamily domain-containingprotein 6
+Major facilitator superfamily domain-containingprotein 8
+MBW21261.1 putative ras-related small gtpase rho type
+MBW27674.1 putative ras-related small gtpase rho type
+MBW33495.1 putative ca2+-binding actin-bundling protein
+MBW69865.1 putative ca2+-binding actin-bundling protein
+MBW35095.1 putative monocarboxylate transporter
+MBW50807.1 putative monocarboxylate transporter
+MBW50760.1 putative calcium/calmodulin-dependent serine protein kinase/membrane-associatedguanylate kinase
+MBW70561.1 putative calcium/calmodulin-dependent serine protein kinase/membrane-associatedguanylate kinase
+RNA recognition motif
+RNA recognition motif in
+RNA recognition motif 1 in CUGBPElav-like family member CELF-1
+RNA recognition motif 2 in CUGBP Elav-likefamily member CELF-3
+RNA recognition motif 1 in heterogeneousnuclear ribonucleoprotein M
+RNA recognition motif 3 in heterogeneousnuclear ribonucleoprotein R
+XP_035893349.1 mucin-19
+XP_035895648.1 mucin-19
+XP_035899752.1 mucin-19 isoform X4
+XP_035899926.1 mucin-19 isoform X1
+XP_035894905.1 mucin-5AC-like isoform X2
+XP_035896418.1 mucin-5AC-like isoform X2
+XP_035900472.1 facilitated trehalose transporter Tret1-like
+XP_035904096.1 facilitated trehalose transporter Tret1-like
+XP_035904313.1 facilitated trehalose transporter Tret1-like
+XP_035903271.1 facilitated trehalose transporter Tret1
+XP_035903280.1 facilitated trehalose transporter Tret1
+XP_035914928.1 mucin-5AC isoform X5
+XP_035917990.1 mucin-5AC isoform X2
