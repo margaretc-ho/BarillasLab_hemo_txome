@@ -1,1 +1,1 @@
-
+Scripts for ncRNA discovery and identification of novel protein coding transcripts from this paper from the Barillas Lab: "In-depth transcriptomic analysis of Anopheles gambiae hemocytes uncovers novel genes and the oenocytoid developmental lineage" https://pubmed.ncbi.nlm.nih.gov/38243165/
